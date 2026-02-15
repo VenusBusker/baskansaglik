@@ -1,4 +1,19 @@
-- name: Fetch Global Leaders Health Data
+name: Global Leader Health Records Master
+on:
+  schedule:
+    - cron: '*/30 * * * *' 
+  workflow_dispatch:
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Fetch Global Leaders Deep Health Data
         shell: python
         run: |
           import json, os, re, urllib.request, urllib.parse
@@ -8,29 +23,55 @@
               match = re.search(f'<{tag}>(.*?)</{tag}>', item, re.DOTALL)
               return match.group(1) if match else ""
 
-          # Arama sorgularını geniş tutuyoruz
+          # GENİŞLETİLMİŞ LİDER VE KRİTİK TERİM SORGULARI
+          # Her satır ayrı bir derinlikli aramayı temsil eder
           queries = [
-              'intitle:"President" (health OR hospital OR medical)',
-              'intitle:"Prime Minister" (health OR hospital OR medical)',
-              'intitle:"King" (health OR hospital OR medical)',
-              'intitle:"Trump" (health OR hospital OR medical)',
-              'intitle:"Putin" (health OR hospital OR medical)',
-              'intitle:"Cumhurbaşkanı" (sağlık OR hastane OR ameliyat)',
-              'intitle:"Başbakan" (sağlık OR hastane OR ameliyat)'
+              # Türkiye Grubu
+              '"Recep Tayyip Erdoğan" (sağlık OR hastane OR ameliyat OR tedavi OR rahatsızlık OR kritik)',
+              'Erdoğan (sağlık OR hastane OR ameliyat OR tedavi OR "yoğun bakım")',
+              
+              # ABD Grubu
+              '"Donald Trump" (health OR hospital OR surgery OR medical OR "intensive care" OR "check-up")',
+              '"Joe Biden" (health OR hospital OR surgery OR medical OR "cognitive" OR "check-up")',
+              
+              # Rusya & Çin & Kuzey Kore
+              '"Vladimir Putin" (health OR hospital OR surgery OR illness OR treatment OR condition)',
+              '"Xi Jinping" (health OR hospital OR surgery OR medical OR treatment)',
+              '"Kim Jong Un" (health OR hospital OR surgery OR illness OR "heart")',
+              
+              # Avrupa & Orta Doğu & Diğer
+              '"King Charles" (health OR cancer OR treatment OR hospital OR surgery)',
+              '"Netanyahu" (health OR hospital OR surgery OR medical OR pacemaker)',
+              '"Ali Khamenei" (health OR hospital OR surgery OR condition)',
+              '"Pope Francis" (health OR hospital OR surgery OR respiratory)',
+              '"Emmanuel Macron" (health OR hospital OR medical)',
+              '"Olaf Scholz" (health OR hospital OR medical)',
+              
+              # Ünvan Bazlı Küresel Tarama (Herhangi bir lideri yakalamak için)
+              'intitle:"President" (hospitalized OR "intensive care" OR surgery OR "medical condition")',
+              'intitle:"Prime Minister" (hospitalized OR "intensive care" OR surgery OR "medical condition")',
+              'intitle:"King" (hospitalized OR "medical emergency" OR surgery)',
+              'intitle:"Cumhurbaşkanı" (hastaneye kaldırıldı OR "yoğun bakım" OR ameliyat OR "sağlık durumu")',
+              'intitle:"Başbakan" (hastaneye kaldırıldı OR "yoğun bakım" OR ameliyat OR "sağlık durumu")'
           ]
 
-          def fetch_all():
+          def fetch_data():
               collected = []
               for q in queries:
+                  # Sorgu diline göre Google News bölgesini seç
+                  is_tr = any(x in q for x in ["sağlık", "hastane", "Erdoğan", "Başbakan", "Cumhurbaşkanı"])
+                  hl = "tr" if is_tr else "en-US"
+                  gl = "TR" if is_tr else "US"
+                  
                   encoded_q = urllib.parse.quote(q)
-                  # Filtreleri gevşetiyoruz ki daha çok veri gelsin
-                  url = f"https://news.google.com/rss/search?q={encoded_q}&hl=en-US"
+                  url = f"https://news.google.com/rss/search?q={encoded_q}&hl={hl}&gl={gl}"
+
                   try:
                       req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
                       with urllib.request.urlopen(req) as resp:
                           content = resp.read().decode('utf-8')
-                          matches = re.findall(r'<item>(.*?)</item>', content, re.DOTALL)
-                          for it in matches: # LIMIT KALDIRILDI
+                          items = re.findall(r'<item>(.*?)</item>', content, re.DOTALL)
+                          for it in items:
                               collected.append({
                                   "title": get_val(it, 'title').replace('<![CDATA[', '').replace(']]>', ''),
                                   "link": get_val(it, 'link'),
@@ -39,20 +80,31 @@
                   except: continue
               return collected
 
-          raw_items = fetch_all()
-          
-          # Mevcut veriyi oku ve yenileriyle birleştir (Tekilleştirerek)
-          filename = 'leaders_health.json'
-          existing = []
-          if os.path.exists(filename):
-              with open(filename, 'r', encoding='utf-8') as f:
-                  existing = json.load(f).get('items', [])
+          raw_data = fetch_data()
 
-          seen = {i['link'] for i in existing}
-          new_entries = [i for i in raw_items if i['link'] not in seen]
+          # Arşivi Yönet
+          filename = 'leaders_health.json'
+          old_items = []
+          if os.path.exists(filename):
+              try:
+                  with open(filename, 'r', encoding='utf-8') as f:
+                      old_items = json.load(f).get('items', [])
+              except: pass
+
+          # Link üzerinden tekilleştirme (Duplicte önleme)
+          existing_links = {i['link'] for i in old_items}
+          new_unique = [i for i in raw_data if i['link'] not in existing_links]
           
-          # Sınırı 1000'e çıkardım (Neredeyse sınırsız bir arşiv için)
-          final_list = (new_entries + existing)[:1000]
+          # Arşiv sınırını 2000'e çıkarıyoruz (Sınırsıza yakın arşiv)
+          final_list = (new_unique + old_items)[:2000]
 
           with open(filename, 'w', encoding='utf-8') as f:
-              json.dump({"items": final_list, "last_sync": str(datetime.now())}, f, indent=2, ensure_ascii=False)
+              json.dump({"items": final_list, "last_update": str(datetime.now())}, f, indent=2, ensure_ascii=False)
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "TheRegistryBot"
+          git add leaders_health.json
+          git commit -m "Comprehensive Health Sync: $(date)" || exit 0
+          git push origin main
