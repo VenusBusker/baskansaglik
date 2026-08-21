@@ -1,6 +1,636 @@
 {
   "items": [
     {
+      "title": "Erdoğan'ın sağlığı hakkında bildiklerim, güvenin ölümü ve Gül'ün Erdoğan'a gönderdiği mesaj! - Gazete Oku",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSDFQUVNReDU1NTNxVzVMNE16T2pkU1VrQ0hoQzZKUHBQYl9VVHUwci11cmxYY251VGczZVF1dWI2Tll6NlpFQUJoNFlTVUQ2SFlOdDdmZTJrekFZWkVTcUxPa2ZGeU96d2thRFZIbGR2QzdkNnVhRU96N2F5emJKZm8tWG9uQnRnS3NfSG5wUUtoYy0yY0NOajdBU1VoVEszQUxtR2VjUXhaWEZrTk5BalFzVC1vRGswZnZVVWxjWkJIWUFfX1hwU1JGa0hIR1dHN0YxWVhWVQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Beştepe'de kritik MGK zirvesi: Toplantının ana gündemi Terörsüz Türkiye - Yeni Şafak",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUDNNTkMzLXEtb0k0NDhhM3FhS19vVUNTVGtkTlpqWkxVQ1FqdTY0WERwTzNNdDh4dlZsZTgxVVZvd3ltM2pIazZOb0szYm45ZkptbVZJSzY1VUlRSUwteGF6ZWo1MWhqWGpjSnFrT3dENjhDMFJoTmtfZWNkTmJROG9yMGpiWW5SZ21TcTRxT1R4WHNaeGlTN01ERDAyMmdkM0xGX3FpTU9TN0FPajRF?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Gözler Başkan Erdoğan ve Trump görüşmesinde! Zirvede 10 kritik madde masada olacak - Galeri - Trend Gündem - Sabah",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX2Z4LUMwdGRrNmNpTnRVVEVwR2FoZ0tJQ3pCblNDR3poZ1hMRWpaRHBudTVTMDhuUEVOQTFwTTI3eEJSZUZpY3NqemJlTmxzRUxRZzU1M1c0Umwza1BBUHJaMDZ3RkpIOWlwc0FEbVFuTVZFTnpadmNXWEpBZnk0RC1oT2tmVkd3dUR3Z0dUbElodC0tUzU5MmVKWGZ5RlpETEhvbXpGUEZiQ3NtaXN2UFV5OXVvQTQxLWJVamZCbTdySkxz?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "AKP 25. kuruluş yıldönümünü Ankara'da mitingle kutladı - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94VmdEb2owZ2UwYndyX1JUbHVFUkIyQzZDWUpnY2M5VF9PYjBYNm9wYTNKWGp2NUxkWUdROXBIc1pLTHhUdms2NEQ4ZXFDczdZajU2a0F6VkcxXzhx0gFiQVVfeXFMTzRnaW1aT0x2R2c2anFqdGNuelFWVTlNZWltcXAtTm84SXU3V3dlcndMNWNXcEUxWno0NFNnMU1NajVhazVocnkyV3l2dS1ib0hpdC02QmhDeFFWMjdnXzM1TXc?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 12:57:33 GMT"
+    },
+    {
+      "title": "Erdoğan'ın sağlığı hakkında bildiklerim, güvenin ölümü ve Gül'ün Erdoğan'a gönderdiği mesaj! - Gazete Oku",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSDFQUVNReDU1NTNxVzVMNE16T2pkU1VrQ0hoQzZKUHBQYl9VVHUwci11cmxYY251VGczZVF1dWI2Tll6NlpFQUJoNFlTVUQ2SFlOdDdmZTJrekFZWkVTcUxPa2ZGeU96d2thRFZIbGR2QzdkNnVhRU96N2F5emJKZm8tWG9uQnRnS3NfSG5wUUtoYy0yY0NOajdBU1VoVEszQUxtR2VjUXhaWEZrTk5BalFzVC1vRGswZnZVVWxjWkJIWUFfX1hwU1JGa0hIR1dHN0YxWVhWVQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Erdoğan’dan 14 Mart Tıp Bayramı’nda Sağlık Çalışanlarına Teşekkür - Sağlık Aktüel",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUml1U0pyZVRoOFZwUmNjN2RDYkJCXzZpWnVTODAxb2JwUFhWSmExLTMyMDNNdThRNHY1YWhva1lsLXNZbVlxNUZFRHZ6TTdZV1BEdTR4V0NvWWFiNk5md0hLTURVa3BhZzVSdFB0NXdValJxbmtmR2VUSWVIYmNpUnBmZFM5WjlkVFVHWWhuYUdhYzlRVmN1QWw3bm9vdzJrWkZMUjMtUzhfZklqZkE?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan’dan 14 Mart Tıp Bayramı mesajı: “Sağlık sistemimiz hiç olmadığı kadar güçlü” - 24 Saat Gazetesi Ankara",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbmZEdlNjd0kzdDFQY0lXZHhDTW55aURrbS1xX0hZaVZ1Tk4zeW5iOUZkZzhCNDBWQ1VNckY3VTBZUDNYYy1MQWM1SDJweUpiYjJBQk4tV3FaY0xUWndoa1pZYVMzRkZZTjVMSldnYnQ1V014dDY2OHh0TXBNZWhXTW9nTkNlTm42Nko2clB0YjhTeFdhMzlGSUhHcUZPLW1FNEJ0RXA0eFFXRnJuODRNbEwzQXN0REMtcjM1WnNEb2RxQk0?oc=5",
+      "pubDate": "Sat, 14 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Erdoğan: İran’a Saldırılar Endişe Verici - Tıbbiye Bülteni",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQN2s2XzV1ckVVRXprbHZkdzltY1B2N3RNQkk1cW9IUzlEUGlEaWU1OGN3TndTbFNPSVRiN3lMS0VWSlhuTVp0emxUaVdhTVBMQU1Pa2xJUGtEMmJVZmlEZnRjc2NTWFItUG9kbXgtQVlMaDI4dmJsRzlnM2NxMUhFSmU5R2R1eS0tUHpkMWg2V3dMQVIwTjVFQWw0V1d3RkFPVy1iTmxzMTg4NWZ6NHJmS01fczAydU1zdTE5MktQbFFvQ3BIVmFFMkVmVQ?oc=5",
+      "pubDate": "Sat, 28 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Trump to get 'routine annual' medical exam 7 months after last visit to Walter Reed - NPR",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiUXdrb2w1ZlUyd3pLdlBHb2JjTWd6dzIwekxHazNMUGZ5ZjNjODBuQmw5NjJGY3RQbmFyZlZrem50cG9LT3hKdW9jWW9qMm9SU2ttdzZha1RrTkUxSExVM1BmajVtaEwzVjRNUmRXdnBNSlVG?oc=5",
+      "pubDate": "Mon, 25 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Trump in excellent health after annual checkup, his doctor says - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kOE9zN0FITFIxcVQ4bTdia29DUHQ2ckQxNnRiLUZYSUJKd2UwNm1sWTNNNjdqbFBNc3psZWFkZi1zalVENGE1VWttZ3hMMDFneUFiVUlNYzVzdw?oc=5",
+      "pubDate": "Sat, 30 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Trump wraps up 3-hour medical visit to Walter Reed. What the public finds out is up to him - PBS",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZVp4ZzAzVjM1MDRmc3NQeGFJNFMzVGc5NzN1dUpuQ21INGpJY09tRUNacTh0M0ZzaWEyLWtjelJkeVpwRWlpVWJyTkNDck0yTE5Ld0pTUW1iOFhCbXR0TTktT1A5Q3YzenZVcm9SNzQ3dExweFNmLTlSa0VPRnZrYzBvSW5DVEpsZUpXZGI4ZXU0Uzh2X3EzYWVHZlhKSUhrdEtIME1zaDcwNExRMkxkVi1kaU9FM3dkdEE?oc=5",
+      "pubDate": "Tue, 26 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Trump says Walter Reed medical exam went ‘perfectly’ - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSllqS09DblktdXZyMG5yLXZYTnYxTWxBZXl4VzUwcWFHMHNwaGlpbEY3OXR0TGF1OVZEcVJJLWFOUUFULTRWb2s5S2VUdmxveXpGbERzemFtZm00cWhLUGVRdWdpSUVQNnc4eVdJQVNGWWNTeTEwcHR1WmtFVkswMVh6MHNGVWRLc3Z0VFgtNFg0bUJZd1J30gGcAUFVX3lxTE5wYVgxdFBWeXQxeEhXa2ZJbHZHNmhEUTFBa3ZQY0tueTJSUmNoam10NGlfWnJLelFwcVJHZnI3cktqaTZxRGcxSzVfR2N4dGMySXlEUlptelNLR3ZQZjVLMG5YeVNpay1ZVnNCQ2JFbVhwbXlMbFoyTWd1eVVWNmtDRVRobElPRzJPbUFuU0J5UFNqUTRKVTZKeTNhNA?oc=5",
+      "pubDate": "Tue, 26 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Watch: Trump to have annual medical exam ahead of 80th birthday - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5adDJQV29MRUZ5VlF6YTJHaUFqTmUwaVhXZU9FQktCWmFrZXdKeG5mN3lxdlI3WGNUWkVkU3FuNFBSSklXYktxRXhPWExDemt6YzJJX1hSYw?oc=5",
+      "pubDate": "Mon, 25 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Trump's 4th medical checkup renews public scrutiny of his health - PBS",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbDg3NktQdnV0Ti1SbmJBSGpkX1NjLTMxTUhwX092VG03LXI1ZVJMZE5FT2x2UzBfNWpERzdQaTBzUVJMUlk3dDhzQXZhaTgxalhYVEE0NDNtcmNka0lTQmhaaUZiVjE5Z2c4NDJTWXplVm1yOEVtcHZHZUZwTW0zd2FleFFlaHZOOGpXd3FVQmlndEd6X00ydkpqdktlQQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Health Policy in the First Year of Trump’s Second Administration - Baker Institute",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUZwMjVjNHdtQkZCT0o0Mkt3Y1dfOGN3Vk5jMFNnODZKYWpWZlFtQjVIMFVDR05fSnl0U0lpTC11YW56djd4TVJYbTgybzRuSGFOUUhVUFF0WlFReE42TVBzS0xIVnUzZ3VwQmZZQzZ4WkVTMmxTZHJHX3MzNjNOZldjZ09tT0NUNEZsaWpSM3VvMVV6VVo1Qg?oc=5",
+      "pubDate": "Tue, 19 May 2026 18:16:47 GMT"
+    },
+    {
+      "title": "Donald Trump’s physician says the president is in ‘excellent health’ and is ‘fully fit’ to serve - Chicago Tribune",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iSklQLU1qTTBYY3FKQ2kyMnJVelgycHZEeWN1NXA4ZlFwQTdSRHdudGlsQVdzMWtoaUZzRXZzWGFBa29URUo1Q0xaQUgxdGY5OEZCalBqa29WWlR3dWFvTTk3VzZMYzY5VUlJa042NA?oc=5",
+      "pubDate": "Sat, 30 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "White House releases memo describing results of Trump’s health checkup | Donald Trump - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11eDh3UHk4dmVPNHY2N3ZLYlFUeEF0QjJ6QUM1WTZYakZzQ1AxSUV3R1NqY2tNU21sUGVTa2UzeEV5Tjk1cXpqVTE4WTQtdHc4eHlyNzlKMWRvR0diMHZIdGoxRXBiTWVfalNDeDJ2MHFVRFF4eTZnZllqS0ROZE0?oc=5",
+      "pubDate": "Sat, 30 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Trump has third medical exam amid health questions: ‘maybe junk food is good’ - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdlVETGx1SnY5SGZfMFVMZ0J1Vnc3RWtaTUROTlRHV2dWdmVvSm9NM1Q3LUxHcU9OOUdhUjRhMXNHaVJTN3dqbWtDZ2taTk1RNUEyTlZjbEVmMmFiUVhvMkhOSC1fRXA2MmFfTWtranhqUl91cHMzZDhPaktWRlBqUGJadEF6MVlPcTZCNWFKTkNHdW1RRDRkSml6ODV5dTY0aUVEWnlpVkZIajZIdVJvWDdTZ0Q1YjJwZnBJQnJtcnlfWlBnYWU5NTlldmZ4QjcyMEMtSFpLTTM0NUREUndoZE5n0gHiAUFVX3lxTE5jQzkwNm5ZRk40RWlxRkcxQlVGTHlJZmZWRmN6Nm9UdHQtVXFkdVB0aE5najJ1MS1sQzdsMGM3ZEkzYXl4V1hwY1FTLU1PZUNES3ZzTDdSRXlxZXBCSzNqWTcyTWdTbVM2akxFVVA4MHE5cm9IZ2FwbGkydlhsZUFqRVVJTHBfVkVCM1Y0OEotLWNsbnQtT3h2TlJiejFLeERzYktvYmlqellZN2xXaUlYbXRLZEJpVzJxN244bmdSOFJMQ0N1U2NOYy1Sc0JEbVJvTGFpSUkyQ2FRNVNSQ2Y1S3c?oc=5",
+      "pubDate": "Wed, 27 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Donald Trump examined by record 22 medical specialists at Walter Reed - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fWUE3dmUzNlYwSk8yVEtaVkt1alE4d0VlTE5hNVhKMHloWDlJX0kyRlctMEI1NXRaZXNxVm9Kc0U5NU0tcUttbnJNY1RLeVdYMk5XcmxEaVJScE1sdVQ4aGtIX0I?oc=5",
+      "pubDate": "Sun, 14 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "‘Sleepy Trump’? - Columbia Journalism Review",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcmEzRXo5b3FINnFUZUpCRzluUkRLZUhGR1dZaDZtVjByLUhmSV9naWs2UTFVVG1nLW1KY1lXY0lTYUJ6dU52TEpCQVJTMl9CZHFsbzZMVlVNVkFNRlNDRGhuSXlwcDRwS2RscndHM3g1ZzdMMVhwaGc1U2NIWjN3ekVkczR6ZEpLVWxFRVlCbXZxLXE4SWtNUUFJOU5lMW81TkFpV2k3TGI4YU9pSVVYZzlYU0JjckswLVh4cmdxT3hmZkY5X2pNZmIyaVQ3Mm8tVHFsSVlBQUdzZ0MyQ2FJeFF4RFZNMU1pSTRrTjZGTG5xSXFFQ01rT3VXdk9VaHc?oc=5",
+      "pubDate": "Mon, 15 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Trump health findings revealed after medical exam - The Nightly",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObWtTeWk5bGczcTdwaEstNjd3ZzE0anBZM211OWhfUVliNjdIcTk0R2V0UVgtSUMyREFSZVFqUjNoa2xob05MdUhXZ2pZV0YyZ2dvQnhsVXJ3cm04RDNlcjdJcThMRk13TVNiNGptb0hjQl9zOHBEUG1CbTFCcWRwdVhBYW1VS2xIajBIdnBVT0ZMZDN6TGtXSVU1d1dIdkpNd0tfYWxiT0w3S0tDc1d3WndRT05vYmpQRC1JcFBLb2xZUW94OHNfZXJKdjd0b1BjVFVPSHFnQ1AteGpkUV9QdEFObU1fUWc?oc=5",
+      "pubDate": "Sat, 30 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Trump’s Upcoming Medical Exam Is A Routine Doctor’s Visit, White House Says - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONmt1eDl4X2FiUS1NUmtNQjdGV1Z0bVQ2T2k2enJqV2tnMGo4Ujlyc1hFVkZUR051U25zcjNzclJCRXNabldBTmhvckkzNnY4VFd3ZXh1RGl2MUQ1djV4ZzU1c3pZSGk5WkR3SnMzLVhENnBGVnFHUXdTUC1tOWRnSDVRejFrTlRoX0lPZ01OcExnTndYempIdEZaS3ZMYmdHNXc?oc=5",
+      "pubDate": "Tue, 12 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Mehmet Oz, Donald Trump’s most effective TV star - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeHlxeWJhUW43T3J3TGM0RnJ4VG9KZVIxdjNhYmZ2eGxsUUd5X1B6MUZ6QjhPUW9GTFQwRFJrWmpLX3ZvVEVuY25ybldCVHdZX09WVzc4aVZfQ0NZaXpyM3JETklpa3BXRW9hcXRRb0NzcXROYWpGaENVNGp2dkxyUzZWcE1CSFN3a0ViZXVSbGRNUjhlYWFOb2E4RmllUQ?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How Donald Trump Created the Worst Diarrhea Outbreak This Century - The American Prospect",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOblFMNmVLZWplZWx1Slp2eUFESFBRc3pNd2IzdlJUMDZfb0pudGxfTmdqTTRTWjBUUXo1YmhUUUdPblQ5UEJCS3RwQ21HUVhqeWJPYm9oZmFXaW44dkJUaURfVGROdFcyNnR3ajNVZHRCZ2hlWjFWUWZNYlNBMnA4ZHJkS25pOWpLSDNDdHBncFNHUTRuUlhISnFNR19SVFdwcXNGeFZPanBPYUY4?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "President Trump saw 22 medical specialists as part of his latest checkup, according to a new report - CNN",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZEpjVU9xbXJDZ1lVV3BvOG9jRkxQN1ZKTDJZQkN0ZTBCVFdhY0p5OElnRkVHZEFhMGI0MkR2RFM2MHV1Ty1Yc1hLQWFfOVl3NTVJd2lTUEpvdWczR1U1RHlwQ0xoVE5CcHdSU2tkVFRaLVZfR25TbjJncDdpSDF0QzFhc19RU0JBbUptbjVyRTVKTVJsWTBtc3FocXVSSlJNY1pTeTA5aWRSYzUxTW5FWUZ5MUJrUQ?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Trump’s physician says the president is in ‘excellent health’ and is ‘fully fit’ to serve - WAFB",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQlhzU2NjdE9GbGR6dVQ5NUZ6Z1FKZHRObWpLejJVb1lBTGxlNjd4UTg2OHRlcXVlaG16eGk5NVZRVVVEZVNnSlpMb2MyRXZ6aWJNeEcxTlVsMG1KRFZXNE9YZGQxckVUVHVwR29qeWx6aFZ5X0dMekhSV3BXbW1BSWRtMmR4bFRjV0dMUXJiUFJ3MnluOU1hSTRkWng1T2R5MjB1amh3?oc=5",
+      "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Jill Biden Says ‘Of Course I’m Scared’ of Losing Husband Joe - People.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZEQ5Y1BmUjk1eDg0US1HSVhUdi1wcEh0S2hENU9mTUNqX00zVl9scl9fNUZoRThkc2RvcktBdmxYWE52VGFKSmNWMEQtMlZQUzh4U1QxSGcyRk9IMENRUkRMMjR5QTFOMjJXdmhvR3FRMGZ4dGNVSzZ6XzdlekRyTW8tTlpqeTJ2VHFGaVZBTHFGelk?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 18:04:58 GMT"
+    },
+    {
+      "title": "Former President Joe Biden’s cancer has spread, Hunter Biden says - The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVEpkY3lLQmluOXNiOTVod1kxZlRsTGVZN0ZDVnBTRm1haDgtTmt3RjNkSmJ6NGNOZzJxczlLaGJST2dBZzRrZUNvNkFINDNuSGpGNDluNjBSNThBcURQYlpxQmpzU3hteVBlR3VVeVlsejY4RGc3dUpGaWprVnhtZ185YmFobnBVWng4dmJaX0g1S3RPajRLSTFrblRJU0Y3VnUtSkdoeTQteDNVLUR3aV9ZUW1ic00?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Hunter Biden discusses father's deteriorating health as ex-president speaks out - Haaretz",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQOVl6UXJ1NlBKZEo3VzJ3Y1VNeW93UnVUZUVQUUlvTGZ3RXdYMlVXLTkybmZKS19BbDlpakZKQUUxSmRISlBlOWZZcFZmZ3lwcVRQamVkNWk3cnhyXzI5Zm8tb29sZ1FuYzZNV2stZzJwV28wWU5uVkhmSGZiMi1HM2lIdkdUVXJsMHJCT0h6dWVZRUQzaDNCckRoYml2R3M2RTBIcnRCWi0xb1BwSGs3SE4zX2pyMnlrQWY4ZTNSMEVwYkFtZEctenUyQnM0MGZFejJwX29tNG1md1FnTlJPNGJuRDl4NDZTSURGT2hGNWYxd1hzMy1BbGNoU2FGUQ?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Jill Biden says Joe ‘was slowing down’ during presidency - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1lFVDVVWk1pY1JSSHFsdjQxTVlrSUhRUWhSUmp1dmhmV0xlRVJGZFlMNk00T2kzWkp4cF9paXgxX1pwYlo0SjhJLXNTaVBUTVliZEdaNmZjaHp4NUx1VjVPR2ZVY2s1ZWNvZTVEOFlxdVpkUXRTbExyRE04anlmS19jUlgtaExP0gGOAUFVX3lxTE51WlRQSW40UGlsdlZzMEZSd0JpRnpDSGZOUFBnWktoZXRYNk9yT0RIeW1pNFJfVlZsSWtxWEx3dHVBczBMSC1SSG1aekdES0YtZC1tMHRQc2VlQVQ3d3Z0OGREdWpYc095OGprOG1YQ21ud09pUlNXZnF1SHFZcjdKeklnS29JaXMwOVUzTUE?oc=5",
+      "pubDate": "Sun, 31 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "What to do if someone is having a stroke, after Jill Biden revealed debate-night fears - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmJaRHBnRk84Q1pBM3B0VUsxMVhCdk1JOFRCbDI3dWtCRng3RUlJd05WdGhxZTNieFh1VTFyeFVhNmhkdmtsWTFNd0VsVFprUnRDeVNRNGNPbWZiOUdzTDdpQkUydjJuY2NCMHJKUC1NTHBVUWJVdGY1SU1MdEZONkUwSkowNG1WNVg0U3RNaDZHN21NV3pTUXZHM0lGVHNxUjRxcl9sQlLSAa4BQVVfeXFMT2h5UmxmSU5DMzcwVnZvbEhGa25HbGZKTkZjN0ZQNDVPRTFrTkoyODBDY0ptX2lmSVpjYlI1b3dTRU9vZ0NUNTJFc0VqVUNBaXZWNVVsYUlNTTliMjdXXzJiWjVhY0M1T245Vk1IbDc4bmQyUDJnd0lzWjQzVnJGQnM2Y3hxV055NjVjaUFQVlhPTmU5VFJjUGNrQ1REVHNlRjZtRHpUel95YVhZRFJB?oc=5",
+      "pubDate": "Sat, 30 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "A Different Kind of Fading President - The Atlantic",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQmFmYmc2VzBXV01WQ3kyYkRVSTVDck9tdlZDTlN5Y3pmbUVrdnFZNVBTeWpOZGxWTDI3d0l3bVhrTFBCOUxIT3RSS3RjdkN6Z3RwdUJTNFM3TlJFbUhINFlKNURQTE1FZk5iZTcxSkwxTnRIZUtWWDNjdWFpRElVd0N1eDl5d1pt?oc=5",
+      "pubDate": "Mon, 18 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Putin sidesteps a question on whether or not he will stay in power until 2036 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDJ0STFPbnpiUWxycG9qVEVScDFWQzVqaHphVkZ0VlpQdGZiS2oxMDFRdGlyd3NPZ2g4eEcyYU9SLUtnQTM4WnpHWUlxNHJ5ZFd0MS1Vc0lHQVdQOEI4TXBLN2tmQm9uWXloejNYVlNmNDFsTXNzR05NMllYZ1hhTkdMdzFMbE5UWXJJdU93ckF4R3BGWUpUYVc0UU9JZ00zZ0gyblMySWEwQndlTXFpcw?oc=5",
+      "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Kremlin Caught Scrambling to Hide Putin’s Health Scare - The Daily Beast",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOFIyOHVfd0tsZ3Z3S2Qzb1NBS2VsN3ZsYktVOENZNG9fTzJsQjZuMlI5R3B3VXBENDhvMHJPZzhJRHk3OFctS09tVHZoWXVrQ2VzbHNNempLXzJGaEgyQmdwNnZJR2lzSDhPNGFXWnpyLWo0Rml2eF9pTEVVWUlYLWNNNlc2MExLUmJsWg?oc=5",
+      "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "'Self-destructive' Putin loses home support as Ukraine war rages on - Press Review - France 24",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdFJaelFtVGZNdXFYVmdVcXpEbFMtRU5BRUZpcjdGX1BXZ3dObDBsOWZYQTNsanJHTDN1dHIzSGQwcWFDaFVmbjFscXVGemhrWUJqQWFkWDh4U044eFpLbGJLVWZ1XzhsRnEtZEI2WFo5X3BjZFVaN21MSWhsRnN6ZjBRQmhYaVgxU1pEd0JmM3l4SnNlRndLZzFnYVkzRS1WNjIzZ21YSlVBTTNxd3Z6NnR4LXJ6cTY1cTMyV2pCNWxLZw?oc=5",
+      "pubDate": "Mon, 25 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "'Putin pushes Nato to brink' and 'groundbreaking' breast cancer test - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tS1hfb0JUVldrVFZnNTctUVNIZ21uUlF5YXkwSDlKekFjYmdVSTd4b0lrRGFBeW9QeEtVMTJkclU2MEd2QVVxRVZ1elFZMjlPdDJHX3lqTkZKdw?oc=5",
+      "pubDate": "Fri, 29 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Media: Pro-Kremlin blogger turned Putin critic put in psychiatric facility - TVP World",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZhckNHcXlyMVFyQnB1dHhabWk1OElLQlVQYmtWYXU0ZU1nUGxsUHJ3dVVQcmFRR180LWd1c2hwNHowNFpyWlZsZlBrMG5rLWtxQnA5N2NiUjJoZXlNcHlkNzJLM1JOdkhoVlFPR1ZDdVg2QXRjbnZ2dlZUdzJxZ3gtQjFmVllJQzk1Yl9WUUZwQQ?oc=5",
+      "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Putin, 73, Spotted ‘In Pain’ With Sickly Shriveled Hand - The Daily Beast",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQazNELTVKcnVSZWlYVDQ4OWVySC1MMHpBbm9WX1laQk41UmtnempDY0VzLUh2bXVnRXJhVW1reUJFdnJhSUxFbW55SlVoTGc1U3ZJMFBNM0dZOHFsbUJqOTNZdklwTVZxZ0NUU090R3RNTEVyS2dXckxVZmN6Sm9fb24zNVNtWUN1NklYYmNYQkFGdUw4dmVGc1BSTQ?oc=5",
+      "pubDate": "Mon, 10 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Kremlin Dismisses Rumors About Vladimir Putin's Health - politicstoday.org",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9COXhtTmlfVUlHRmZBNDVYQmlsV1NhQUlGMV9Xa244ZVdpRm4wTlk1M3ZiUHpHM00yZkFFRktfTmVYZ0ZtOURVcU1DVWxpMWpENlRaaEdPU1B6d2MweFBtWnlwUTRHTTFmZXBScXp3UmZGenZiY2s0?oc=5",
+      "pubDate": "Mon, 23 Oct 2023 07:00:00 GMT"
+    },
+    {
+      "title": "Putin’s Hand in Viral Video Sparks Health Speculation - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLeldJY05KVkVwc0hrNk9xVC1EZk1sTHVsY2RjbWpoSGFWcDNnZU5lNC1Ealc3d2dwVDVFUTZOSk42M05RM2NQaVFjeEc4YVpLcHJLZnNNc19xUkdoMDRWSkM5a0dkRWV3SlgxNFhfZUJZNHllU09PUFhB?oc=5",
+      "pubDate": "Mon, 10 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Rumors of Putin’s Ill-Health Persist Amid Intelligence Updates - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1blNQUEtfdm92ZDhHRTZXLW5iOVViczh0SGJ2TVNTNnhwNFFsejM2djdZeTNqZ0RUdE5Ub2RKNnJFWHRZbXk4aTU5UkI4ZjQ2bW5xVFdISjk0UXhlLWEtSGwxVE9OaDF0MHc?oc=5",
+      "pubDate": "Thu, 05 Jan 2023 08:00:00 GMT"
+    },
+    {
+      "title": "Hot mic catches Xi and Putin discussing organ transplants and immortality - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EVkN1WGVEVjI4TU9JSnFhZWZURDdHU25HZWZDTXF0MUxGbk1LSDJmQjVoaVpwTzJIbnB6MlJLWm1qeHFHYjJ3UVJMV2o5MmhIU1RUeFVuQkxiUQ?oc=5",
+      "pubDate": "Wed, 03 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "'Vladimir, STOP!' Trump says as Putin launches worst attack on Ukraine in months - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbEFFdWNNWFI0a1JwTmM4WjMtVU5OanhlZE9STm1GVkxDZlE1VHdKamxYWXhlbVZERThiNWRpRkE2ckZ1dUQ3cE5uSTNUOF82bmVpb0J3VUtWSGJteGRYNWlQZ1NDUVNWYi1QZExHcHNsRW1pTmNpREpPZjBMTkZmMC1jaXVkTUVoZENnRmRfdEYzbnlpWmRDWUxDMnRfaHFhNndrY1Q0Y2hiSGdWSnJWNTVR?oc=5",
+      "pubDate": "Thu, 24 Apr 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Xi Jinping is awarded third term as Chinese president - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTWNOWnBPazEzQ1ZNeDI1WlRtRG9qekYtR3BkYXdrcTNCZFZvTjh3WjNMV2h4X1FvdDFBLWxyRTBFWlZxZnMyQ1JLWExvRzlsRG5wNF9Xc0R6emlESElVOEJQSklLSzhOdEdxT294QnBmRWQzSjk3bEhOQWRrMmJsYl82eExXMjB5anc?oc=5",
+      "pubDate": "Thu, 09 Mar 2023 08:00:00 GMT"
+    },
+    {
+      "title": "How reports of Xi Jinping’s waning grip on power got started - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGF2c202eGdEZkduY2VXVzMxQ184MGdUSGNXU1hxbndlYUhNTDFJTlhrWG1fejBXOUVzamVuakU5TnZpOGlJUHRfZGFNR19SeS03NjRMeVYyVWJBY2pwTmNWUGs4aExZVlZrV2VpX1ZROTVmRmVFbUVJbURVUkYyQUpXRllaRmw5MGVDM2FYSUd5cTVOZERCT3lndE9tTW1qZmVXSmEtNW5qZHc?oc=5",
+      "pubDate": "Fri, 11 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Belarusian leader Lukashenko and Kim Jong Un sign friendship deal in Pyongyang - NK News",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBPclItNWxGekk5NHo3ekZycEg5c3ZIVTNySTZ2WlNHUVBXVzF0R3g1YXByZGo1VnpXOThpcmh2UFduUERUUDNZ?oc=5",
+      "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "N. Korea's Kim pays tribute to founder on 32nd death anniversary - The Korea Times",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbHp5T3J6UHV6dnFjMjQ4eThMSk9makJLcXg0ME9DYlppNnZlcjRJMFZWMkJGblUzOFo0bU5wMTVmY3ZLS2d1elhJQ1oyMkJUaENxXzNKY0lHQjl0SnBqQkxLSnFqSTF6TUNNb3JHMjhnQnNCaHpZTnREbzhCZnFWcExoTE1tb3JwUGtoMVQzd1djcnU4cTZIU3hBRnc3RFNSWk14SnptcXFjV3ZsYzJ3Q2N0ZTZ4U1JXSE12ejgwQTZkekdT0gHKAUFVX3lxTE9NWV9EcnNZb0pnN3BfNFZUTlUxbW94WGdGdWNjZTBzWE1KenB6Q1J2eWF5Q0FzOXZVZUhhRkFVTHo5SDduMUt6MjJwOHZhdnhQclBLQ2xUSVZPU3JDTHROYjV0dExGRDBUZS1qVjdTeVhjVWc0Nm1KNGd5MW84bF90UDVMQ3VqQnY3X0c2OFBiWnlMRnFDVWdOUmI3Ynowd3Y4LVM0ZXk3ZEhmZXN6WTRGdXhFWnZwTTRxdDhvdzJoaUo3eWkzal80eUE?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Kim Ju Ae: North Korea leader Kim Jong Un chooses daughter as heir, Seoul says - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JanBQd1U0RndzVkNvZnNUSXAzWGtidm5OdndFWlNkT3ByNk1uNk1Kd3gyRGd6amVmdzRnbURaNHFjUzBIRHVSWmJDLW90S1BxMDFkNzdCdXZIZw?oc=5",
+      "pubDate": "Thu, 12 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "South Korea maintains Kim Jong Un health rumors are untrue - Alabama Daily News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSHJRUFNYTU5ZNFE5aTZlU25ydy12SXloekw2c01xbm5PNnIwWVFEeDBhQkNXTk1uVlA2aFR2TE9XcGFRSTIxd2xSSVFuWTQweU9STmlUckhrMVI2bVZ2cEZ4Y21ZRXRtQmEwSTVER3JGVG5ZdEo0N29Qb3l2Wmp3WnBWX0NuVmtuVm13?oc=5",
+      "pubDate": "Mon, 27 Apr 2020 07:00:00 GMT"
+    },
+    {
+      "title": "Kim Jong Un’s Unfinished Hospital Shows Sanctions Are Biting - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUnJzMEpZX0x6RVF1NUtqbHB4RWRNYl85VThpdXBrNnRpdzBJcm9zajdnNzJzT05MY0d6eUliSTdWNlc1OHF6MUlQZUFndm9UeWZjbk85d2JSYnRLSklyLWE1dTRhN3N2QjJLUGNEWUFCLUhLVC1YeXBwUThUdE5KbWxGcmx0enI5bGkzdERxbEVZamswTk4wVDdaVExldmg0bGhGZXU3U19NOEhKdF9faw?oc=5",
+      "pubDate": "Mon, 20 Jul 2020 07:00:00 GMT"
+    },
+    {
+      "title": "Kim Jong-un warns over North Korea typhoon and coronavirus - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yMFpSdmYxNUNibnZFNEVzdVhjekJrTkNfSHg1X0padUlQaURpN1JfSjkwcHI5Zk55a2pHcmxCSks5bk8xc3FObmlYdFhCZm1NaWFWaElQSQ?oc=5",
+      "pubDate": "Wed, 26 Aug 2020 07:00:00 GMT"
+    },
+    {
+      "title": "Kim Jong Un’s Health and Successor Update Given by Seoul - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYmZIcWpMajE5T0F2bWYxWWZ6TXg1QUZ3UFh6OGVSaWIwcTJkQUpUc0dyYWJ1Y2FrS2xPQ2U2bEh1U3ZXNV9uY2d6WS1UOXZwcExXUXMtck1LMEU4YTViTmJsZzZXcXRkdUlLVkxvckQwaWFaNTJhcHN3dDdGMGdiMjktOFRmTzg?oc=5",
+      "pubDate": "Mon, 29 Jul 2024 07:00:00 GMT"
+    },
+    {
+      "title": "North Korea celebrates late leader’s birthday, pushes for unity - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzNfWFBQa1hIR2ZFWnY2a2dSNVhSWGtXTFk5WmtTUHhQVGFmMnpaOWVGRWFkWFhVdkp2dFplZ1F3d1BBTzZsdTdnQTdSSTNNVXdGOUhHNmVlZ1h0QTZpWnBkMDNfaWl6R3hNU3c0dmpMdktnb3NqYTZzSmYxN1Zvb0ZrR0E2cTJOcmp5UjBSS2txZFk2SkhNb0dlcw?oc=5",
+      "pubDate": "Wed, 16 Feb 2022 08:00:00 GMT"
+    },
+    {
+      "title": "North Korea's Kim Jong-un issues warning on Covid-19 amid speculation over his health - France 24",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcnBKT3ZkMVJIWG02clFCMnRUcmp6VDZyZDlkVUYtdmhzdTJRVmdvSVhXaUg1bW4ySnJWYmN2X0hSanBIbzk1OTRNVmh6RHpiV1JwM3EwNVJwbnRybXQtaGIwR1RVOW1PNEk3X0NEQjVHYW5EaFh3RGp6U1hHTmdWWFZwTVVQZTVQaURoTnRDeUVnMzlVUU9HMktmZWNLYlNsMmpxVlFtREhfUG1hamFEZWpjUEs?oc=5",
+      "pubDate": "Wed, 26 Aug 2020 07:00:00 GMT"
+    },
+    {
+      "title": "Interpreting Kim Ju Ae’s Role in North Korea’s Succession Politics - orfonline.org",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZnkyaXBmeE1SSHJVTVFYQ3d5b09YbTR0aEprWUQ4aWlpeUhuU2VZQzVia1dJcWFqdERIQm1vWW15eFVUc2tVZG53eGFaOFREbEt5aDg5UldPcUJzV0NXYUtieVNiRWduNHltNlhrYkh0MG1XYmp4X1BsbFpWMzVuRVZBQ0RtN0hoRGVpYUlCT0EyNl9DR2FWcndEdjFRSDc1VkxuZHRFZjQ?oc=5",
+      "pubDate": "Tue, 27 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Kim Jong-un fell ‘seriously ill’ during North Korea Covid crisis, his sister says - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLVFXdF8xVmw2cFJUMFVKdmRtMkVIdFNVRVFuelR0RzlqTnZQdlVwTHdsVElfaS1FUHUyam96eFZ2Q0hrOGtTdEhTeDhIRXpaeXlZZDdCemhRblhtRDY4TmdrRWxHTWp6dXdWWk9nODBhQUloZEs2OEFTZUhOU00yQ3VLMUIyS01ZVHBOMnQweGs3dEsycTZ5dzZCT3JGWkktQjZJdnQ4R1REc3U3UzNOdnBWOTBNa2ZWck53bDZfWjdLdw?oc=5",
+      "pubDate": "Fri, 12 Aug 2022 07:00:00 GMT"
+    },
+    {
+      "title": "South Korea Says No 'Suspicious Activity' in North Korea After Report on Kim Jong Un's Health - Time Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5JWGMxeUUxRmhRSGhwb2hmUWpGZ2xtdmt0V2h6eWlLdGRJdFdtWWlaN1NQZWhFS2JESXluZ0hFaE9YTThzUmJv?oc=5",
+      "pubDate": "Thu, 27 Jul 2023 07:00:00 GMT"
+    },
+    {
+      "title": "Queen Camilla found it hard to keep King Charles’ cancer diagnosis private - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR3R0SkczNk5QY1hvV1JVdC1LNTlNejlFdmZjbXQ3MVlwWU9CdWpEMzEwWXJUUF9NMWpyVUxyX3Z4ZFlsMUVGNGNsbDd4OTZqaC1PN2Y3bnFMRDNmZzNzRlh1S0JnazFKbzduSmkyOE81TXJfYjQyUXMyS3g3ZTg3Tk5telZxbGZ6MExzSXdmZ1Q4MUMxQlZSWXhB0gGfAUFVX3lxTE8zNlJjbDZCRnRrNUtDaXRNYmlUaHpENUJjSkdSdklaVVN0c2dNSTVLUmlvVVRfY3F6MlNmNTZNcFBGMFhIVDdvdFpabU1mVXFhQzREM1Zvc1Y0ZzlKb3JlSGFJWHV4WmxTN09BU3NFcDVZZXpxel9jUUtEeXp1blB6RHZvZS1FQlJha3gxaS1HZ19zSFU5aWYxT3c3aExtRQ?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 17:46:51 GMT"
+    },
+    {
+      "title": "Queen Camilla Breaks Her Silence On King Charles’ Cancer Diagnosis, ‘I Was Just Longing to Let It Out’ - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN1VrbVNieEEyOTRwWm15MVpDbUJYT0haSjZaNW9HWW5nRmF2VHMzdm16Z25VODJMT1Q1U3AyN2FiYTRrUUl6eGpLbk90VXRtaFdNX1d2NTdOWnlDM0NIQ01iaXRneDBoN2RvcTJBa3ZHT05ZX2pZaFhQelhzdnZmNExsT2JNakZCSGtSQVpsNjA3cFBFZnRRc2U5QjJNTW1xNTVINw?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 18:41:17 GMT"
+    },
+    {
+      "title": "Queen Camilla Discusses King Charles' Cancer Diagnosis For The First Time - HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZERTZTRyeEt5dEMtRnk0TUExSE5lLXg2N3htN1h6MVZXNTdBTmJVUE1uNkZvZDZONEhsNy1Hb2l4TzRRcFdsaHl2eXFPUW9zMVoyNlExVXlQZzZGdjlpSUp1dWx4aDVxSzdSc3hlOG5UQmstVG55SS1HN0N2b1gwUTlhbzZPekViMmNqV1JMMTRjSzdqU3fSAZsBQVVfeXFMT24yT2gtNnB6YTY4WGtiV3ZVYmotQ2k5UExZWENjbFpadU9lZE0wTHVGM2FJdnBQWHN2X3FZaEdsdU9ULW43QnZUZmJPd2k5VFh5bVZKcmxxWXhxaE5yeUl2WFY3N2Jrdk1UWThFVFdHV0R0d1pkY1RtaHVJVUxmSHFMRXNWRjctdUxrUkQxVlJ2OFZZVjA4b3NTdXM?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 14:51:47 GMT"
+    },
+    {
+      "title": "Queen Camilla Admits She Struggled to Keep King Charles’ Cancer Secret: ‘Quite Difficult’ - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVElrVzk2Wk1jUEd1M21nZjhaTzhfTFAyVjd4cDM5NWd4cEFqbjdnSHB2c0tYWUx1ZEg1TWZoT09MMkk4RkYwMmd0ZDJ5a3ZiSnhVeFRna3dVMWVHaVZIU0EtWjZESE53YUtMaXR0TE96anYtTHZkVkducGJwRjB1VktEazl0ejhPa3pudkY0RGMzcGFOa1pn?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 23:42:36 GMT"
+    },
+    {
+      "title": "Queen Camilla Reveals Difficulty Keeping King Charles’ Cancer a Secret, Addresses Diagnosis for the First Time - IMDb",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFeWM1ZXVGSC1Kb2FVcDUyOWNqNlRLVHVkSVhQbHdNR2pVT3VsU0lOeV9GZ0liS2hnRDdOR3c2NDgyVXp4elhzRWp4OEVEcjRDcndqQUhLYXctNkR4bUh5dThfLVFwdw?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 18:06:22 GMT"
+    },
+    {
+      "title": "‘Longing to let it out’: Queen Camilla on ‘difficult’ task of keeping King’s cancer diagnosis secret - Nine.com.au",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORjgzV1lhMDhpbExMNzF4b1NFWGNZaV9ONVBJdjNoUUUwbC1YV1daMmJKcmpiVV9HZldOWW1BbWNjbVBEM0pmUzBRM0ZLUUpiWDJrb2FNalI0bEREQUNJT2sxOTgzRGRjSExSS2ptMEx2YWlYWktRV19nd3pDcEIwNEpjTnB1WGJpLWtXS1IyNy1zaWR2UkxaSDY0Tl90eU5hOXpybmE3RDVqZWZVTGtUZkVlVjZaMXlmRFBDY1BIQUdtYjFpWVBnUUVJUy1QYUt1Z0pfYTU4dk1zREpN?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 20:37:49 GMT"
+    },
+    {
+      "title": "Queen Camilla breaks silence on King Charles’ cancer diagnosis: 'That was quite difficult' - WION",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbzZMNmZJaXNiZlUxNEQ4SmJfS3BKNjZESmw0c2RaWEQ2UlRyeVNVdTZJM1pGVGU1eXd6dHNvYV9DZ3JQZGlLN0pkY3NkZ21FbTJucWpiRUVDMXJ1VGVhVXFDZEVscV9jbGJGT3JrUWVwR0RnU1pCT0c5OGM1XzNaN2s1SVFHRE1ZSGRROU1JYzVyS2hRdkFUeWdNNVpLa3Y3b3BGb24xaUp4WGNwclNxTFphbjJSTmctMUZra3p5U1VmTXptdUVzeDZxZDFmaHlXd1MyMUhzd2k4Zy1SNWxBYWd30gHnAUFVX3lxTE9NR3F3bkhYcFdrbzJ1aTNSTFZVNm5Nb3J6SkZEcUo5NDJXZmxqTG5PU3R6bzdaUTk3NVFBQWE4eFpOSkxLQThGZzlYc1NrOFAzSTlCVHU5NUgyQ3dwbnRVc3NydUJobHdidUpmRm5OX2Zxdmhpb2ZNSDMyVlBSa0d2NUdZOGFQOF9PODVmTnV0bW4xXzRIbXQ0R3I1QTVJM28xMGFvYldId01pOFl1OW4zU3pwXzhWZllGQ25rc1J2c3VtUjlGRTVlSkhQbGVKLUdOZFZuVXZaeTBSQi1WaDRjY1FzYVFtVQ?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 02:40:48 GMT"
+    },
+    {
+      "title": "The Royal Family Was Reportedly ‘Blindsided’ by Meghan Markle and Prince Harry’s Decision to Move Back to the U.K. - ELLE",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSWdwM01ndk5XV1ZaU0N3N0trV3VrZTVvMWRWSGpiX0lhOUw0YTZYalpscXBBNmp2SnpDYTRoWmJqSFNHVGpfS2pNMUdzRXRRSjdNakNiS0I2b3Vtb0NpNjUyX2RGN3oyWTMyWnk4cUVuQ3hZTzNNYVRjclJZWHVLbVM4czBzYzFyR1JjUDUwcnlOdktLcHlYSjA4VEwwYkFkRldaSlBDaVgtYWpW?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 16:07:00 GMT"
+    },
+    {
+      "title": "King Charles won’t slow down and won’t do what he’s told - The Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY1ZsZW9FaHFuTHZaejhKUlU4dTN6QlZPT0kwa2RhZGFPampkcWlxeG1may1iQVhIUjI2MmNCRHp6QWR6WmZHNHRGV0VXY2ZpZXd3TkFNbHRiN1N4MHBXeDJaVEtZTENQVzJ3ODdCTDUtSF9BM1EzZGFqYVNqaGRBeGZuMVlzNWNBOTlRTWx5Y3p6QQ?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 18:00:00 GMT"
+    },
+    {
+      "title": "Queen Camilla reveals the pain of keeping King Charles’ cancer diagnosis private - MARCA",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazVxQXAtMnd0clZtYVhBc1gyS0dyM1BUZXJkOVl6TU53aHZsZXdxcjVSbk5GNmFWaVNSaDZnckdZSUJuUXFfWDZpMDJRbVFwUm8zWG9Uc1hXc0g5X0FMSjI1QnB5RlhjU0JtUExzVVFOdVVidk1XZ1Brdm54R3V3bnRmWGpYZmpLblFLSWd4WmVPTmpKRU53TEN6U29TNG1zV29RbjRTc3hFckJ4RkRXbmdSTG16d2c4bk16Y2RtOVZFVk5aSVpjMkhkVUVhWjBhUTMza9IB1AFBVV95cUxPazVxQXAtMnd0clZtYVhBc1gyS0dyM1BUZXJkOVl6TU53aHZsZXdxcjVSbk5GNmFWaVNSaDZnckdZSUJuUXFfWDZpMDJRbVFwUm8zWG9Uc1hXc0g5X0FMSjI1QnB5RlhjU0JtUExzVVFOdVVidk1XZ1Brdm54R3V3bnRmWGpYZmpLblFLSWd4WmVPTmpKRU53TEN6U29TNG1zV29RbjRTc3hFckJ4RkRXbmdSTG16d2c4bk16Y2RtOVZFVk5aSVpjMkhkVUVhWjBhUTMzaw?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 18:31:14 GMT"
+    },
+    {
+      "title": "Camilla reveals she was sworn to secrecy about Charles’ cancer battle - news24.com.au",
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNaS1iMFZrYnJrd3V0Q2MtRzVnSnFfMEZkLTBpSVBtemVrRVd4dHFEbkVaNUtTSmcyQTIxYzlGcmpjdWtrT1FCRWN1VVRObTdsZl9rajJsY1Q5U1MxaUJHMkFIaTBQWHN6ZmdGNlc2YllYd0dWUjRIa05VbVB2Z3lZdEtqRWJSS1duT1FYMnNWamN6VUNGUFlZd01hcXUyWjlON0RNOWdCOVE1cERJYWdPalUzOVlmam1UVjNIRWhGMkNpYldJN0NiMHptN25oSG9mVXktOVBEVndxME1WbS05ZDd5LXl4UXYyaE05UThoNnRMSmQ4THlOSUhyUHcyc01XWE1ORDE4RkNrVUFrTVNZc2h5aHBWcjRUbFNib0dBa1hpZGZTcmZ4dUpVNmZSZFBsQVhLYXhLcVN2SEM5R3YzUWxQSmZ3MTNlcU82ZFZ5ZWY3YktTOFY0UEwxRWdtUU9WUXhNQThkamxyQ1lCN1d6RzZ6cWVvLTJaZUtrVmJOT2hQdDZfVGVrZEttb9IBkANBVV95cUxONWMtOTMwMnBmTzAzQVV0OFlJbVlKcFF5UFRHTWEzQ2ZKZlJUb3l1bDhMRTFZcldRbGp3bDVkTWw0NDF0UVNuNG5wMDlhLXBTb1RZZmZQME9feFVoc2JrcE1mLThnZi1jUFJsc3VlUEo2RFNXdTZxQ2N4THBXaV9sMkNMdkd1S1diTUJxTzlqQTRiSkl1djJ3QVpsRE5CbXB1Z2k0U2pUSS1wdmlJb2M3b2FSX1NWU05CczdnWFRIMnU5YkptMk9jSVFWTERQdUpmVk5IY29HYkRma19MNXdjM2ZkdlJJVzQyaExXTmhmZG5YNWpmNk4tSGhXcWhsVDl2aUNJaEtoVmpqVHdEdjdCa0l2TmZOM0lZZnQ0clF1NFBEY0Zxby01bU1UdmV5RlVBUHk4RmZKSVIybHlUTGpHT1p3QjZiZkN4SlVnVkZYZk9KMmtSQi15UE9SamtjdzlJTnlBQzllbHd4R3VERlNMbmNjYTRUOTRxNmtsSEd0Qnp1eGhwYi0ybTFNeG5KRHlm?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 01:11:56 GMT"
+    },
+    {
+      "title": "Charles’ Biggest Cancer Secret Revealed as Sources Disclose the 1 Thing ‘Keeping the Monarch Alive’ - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaElnUXBfY2oyeGNOV0VsN1VwRy1qUThsMmVWbXphRFFoOUJtdkd0cVJjZENCak5WcVctaUFSTzl2X2N2bkJxTklZTl9ZOXc5cDVBem5BTEw4aG9iQ245RnppaWhscmEtMTkxaHBIWUhWcDN0S0dyaVBmWGpCb3RQcGtac0FEMVZ2RlFWdnZTUWR2M29jaEhZb0toWWpwdHpOa2wxNnlHa01ObE1X?oc=5",
+      "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Queen Camilla has opened up about the King's cancer diagnosis for the first time - Nine.com.au",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUWx0WVJSaWRxaUZBeGdlTHZBMTVXVGluUmM1aGhYMTRWMnV4MkF1VHFIcUpuRHdpUVJzdi0zRmMwYXJfRTh0TEdtSGNSOXhhYjVuanBwak5oX19KMjgtdWQ2eE12YldCTDNBclEtbjcyQnJKOEdNOTRTRzluZ2N5bkptbHljMTV5VjhPZERIRkxKM040aHN3cVVjcXlpOExxZWRFYjdvTG5qdlVLM2l2NjdPS1RJS1NLYmJnaElYZkxVWVYwUXMwLS1TdDc2WHJUb255TmNLVHBTS0NjMXNzMkI3azlTaUdL?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 19:14:13 GMT"
+    },
+    {
+      "title": "King Charles update from Queen Camilla on 'difficult' cancer diagnosis secret - Oxford Mail",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUWJYQ3NNSkxMNU43SHJvOGFiYUNSZ1VoNXh1a0hSLXNCMG5CTFMydEVuaTR0c2FEZ05iQ28wdzNHTFRYcDJUWFFGTFVSclBPVHhjeWtpWjhiZ2xtUktIWTlMS3ZveTRaVnBPazB0dkNWUm5nMlIyVVVPT0EzaEdiM2lIRXpIV0VLbmE5THh6alNYemh1YlE?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 12:06:07 GMT"
+    },
+    {
+      "title": "Israel kills six in Gaza on day after Kushner meeting with Netanyahu, medics say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWUljaVdkdjZZMngxR1FnWEVjQ25STWQxNDRtVVNGV0dUdFkzN0tVWUh6UmtPTlZVZU14eTBuWW13Um9WUzZ1QzlBS0tHcFhhakc3aUZOVnc5QlJ2aFpqSF9fejNPd3ZUMFpMN2Q0RVhSVFM3ZHVJWHlka05acUpTY3lQdFFSSDZHbzJzLWxTOXdOdk9QbUI5Rm4yd1ZGUzJ1UTNwbjRhRXpNTkxnZG9LbzVTRGdfbEd0VGw3M1FGRzdoRW1CY3c?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 01:39:35 GMT"
+    },
+    {
+      "title": "Netanyahu briefly treated at Jerusalem hospital; his office says it was for dental work - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPXzliR0x2U2VIZGhFemVzNmFlSkEyMXVsUzkyenhVZFgwNGVOY0d2SEZvU2M0RktyX3dkNWs3X0JoOG9RNTZIUWttclZfMjBKWi1oZU1VVlZodDhQbi1EWVFWam5hNnJXdmdzRnNJNE1iNmpBWkhROFFfaEczSy1vRHJmdUJNQlJCX3o1R2h6b3M2VW45WUNJblB1YVVBX0NXSzlCZ19rNlAwUdIBrwFBVV95cUxOc1hacm53YjhGOXNnNEVabWJrWDA2bVVaOWgzZzk2cldVRzZDczlfaTc3RGNXZm82dEpSN3JZUkNERjVCb3FRTlpCNW1EQVlvelloQTh1VlhMMGVqX0ppVUVZNDVXTnNHc0sxN0tvVDZWTW1iTl95d283LUZXbHdsV3pPYW5ESlN0OGtVMW9FWHRtQW5PcERxalpXbTN0Vl9WcGpaTUVPR2ktMnZURGpn?oc=5",
+      "pubDate": "Tue, 26 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Court orders Netanyahu to submit cancer records in health libel suits - Ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ubGZUc1JMd29oR3BCSk5lNm9WVkoyNUpHVFNUYnNhb3hKVkV2TjBVbW95VEtUTmlqMjB6OU1GaEtWS3NvYTBrNVhqRUVqMTAzOU1LNEJRdw?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Israeli strikes kill dozens in southern Lebanon as Netanyahu expands ground campaign - France 24",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN3VaSFExWkpfVFpEMk1BeFhQUWFRSFV1VEN1M1FmcS1ZMkJCT0xjVjEybGI4aUNKZmF5Z3FncXFveURNSzlTdzVwSzlZSzRuYWljTnplbUxsbTlkb1lwemJNb3RvWUo3ekQ1M1Y5T1NfcGxfaDViZ3pHbDZKUW1jSXM2VEk5RTFQZnMwel94NUg1czhVSmc5NU1pS0U0U2JEem1EYzRJdUR1Q211M2ZNclFKYW5XZGRfRWJnbld3eGU?oc=5",
+      "pubDate": "Wed, 27 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Netanyahu arrives at Hadassah Hospital - Ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRWW5fSmU1ZnJpM3dtSVBqTDZFUC1YM3ZBcUpmR2l4U1I2Zy00aDRLMXpLeTVybEp4dDRYSXFqZEdzV2JNX3BqSGhGYUVHRGpja3hfMkZn?oc=5",
+      "pubDate": "Mon, 25 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Israeli Prime Minister Benjamin Netanyahu announces he had prostate cancer - KGNS",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN3VNRm8zczV2S1dBOXdjMURZZEJoY3hOTU1wREY3eko2MzFzU2M0Z3ZPakduMU5nbW1CbExpRnV4RHV2S3VtTm5DT1U2WklwYmhqSHZEcnlvX3I2NE9nY3VJamZtLV9iN2RaUU5kTlN0UUdHYmhtU0NFZUk0azJyVFY5cGNkSGp0LUJFbVJPTjZCSUxRa2xreUlLTUdVOTdVM255Vm1kc1lld9IBvgFBVV95cUxPUXdwcHEwakkwbkZRRW9VbEUtUXFfb1VhS1NQdGwxWEFPZy15SGtsdGhjYkIzR2dVNDdBOXQyTHM1Qklqa3JMek9ia1lrVDhqQmFnMlhSamlVTFNYaW56eXNjeGNFZUxjcUZwUmFrUUR0a01KVElfZ0xiWUdNcWpubmlWTGdNYXNRM2xxaHl6dlNzRmN4OWswSVZuZl85T0hnWEhwdWJMQkVWYmZ5SzBJdEdmWE91NUVfbXBDdUhR?oc=5",
+      "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Netanyahu battles pancreatic cancer rumors in libel suit - Ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNTy1Hci1LYkZJdV83TmprY1ZNb1lrVmRFYTJoRFBzc2RVbmFVVzc5MDBxTzN2amViclVGSkpUZXdIc3ptRFlvelJTM1RtS04zLUF1cmFR?oc=5",
+      "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Netanyahu says he was successfully treated for prostate cancer - arabnews.jp",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRUnFtRVlrOXRlX2VtVVhTclFiUVN1Z0cyVWlBbFpLSmxQSkZLbVBvQnFmMkJwaTNsZUM4cnhwVmYtVVdfZ2xMLVVKMnF5QW0wdG1JTWtIY3F5Sld1aWQ1OWpPOHk?oc=5",
+      "pubDate": "Sat, 25 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Netanyahu testifies in defamation trial over journalist claims regarding his health and fitness - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOFhJdzUzbUM5UDA2V3pXTVN1cDkzTTQxcVZzZm03M2V3cTdtdFVFREJHbUplY3hIM29rRnJHTFRKNTZmeXdqV0lyWGpmOW9BQWg4V19QNXUyc0RZWnVLT0ZLVmJxbWtuZkNSUk5UMksyNjVPU2o1Z1Z1emZ5enh1YjBVbEtkRzRKYjZwVUkzOHRoMXVDY21CZmFQSVp1N3pValZN?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Israeli Prime Minister Benjamin Netanyahu to undergo surgery for hernia, office says - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONkZCTW02M2I5NWEzYVptdzVQLUVmeG1OQWs2RjRIdFJZbFVxYU9rVGdEdHdKdXBheGN6bFJDaDlrbWtLbXdqZi1nRGtQVTR4bGVVdVpJZXhWd2FfeGJxMDdhOXR5RjE4NWozd2RCbWxEdzlSaEgzY1F3RUtFY01DcTRoT3lVUzNsYXF5VXhxaVMyN1VSSUR2U2YwbjI0UUlUVGcyT0RUdlJ2SHFWeHBNdkN4cUVEeGxn0gG-AUFVX3lxTFBGTHRxcGwxQ0ppT2ZSYi1Dc1BUeTY2UWtCWVRERXZTZE5EbzZTMVNMSDM3cjVnXy00d0pHcWFfVWVTalBiTVpXajJSM016dldsMjlpb1BDaFpoWUhaR0t2WjkyQXdlV0lmbi1WQUZhVlFwZDhRVnpINjQ0MkVyX1ZsVEZSSnNnZ3c0QjR3azhuRC1DaUhaVUVaaVBOYWp3LU5IX1V1azczRnh2VGNBcjdSZ3VyaDcxSW5FNkhHY0E?oc=5",
+      "pubDate": "Wed, 11 Feb 2026 07:55:06 GMT"
+    },
+    {
+      "title": "U.S. envoys urge Netanyahu to move into Gaza ceasefire’s second phase - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT2NpNEFjV0F3ejctNmFQVVRSMXpYYlBFSXI4VnhyNlItd3paRHM3WUZxaUc5MDFDR2VFRnM4dWNVM3FiYVB6SFhVS0lobzg0cng5c0RubGw0aGNFOElnRkFPRFR2Y2FCNk9yekI3dFA1aWo5bW9pMU52clRrWnJyOUFGMzl2X1hRRllZSUNKbEVOYkMtNlVwQlR2ZWNuRG53SndyM3Axbi0xS01HVFRuU2pYdlh5eEFVdFVjS0FB?oc=5",
+      "pubDate": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Mojtaba Khamenei unlikely to attend father’s funeral, aide tells India Today - Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80SlZZSDNqVTFsMEw0bVphVkl4enppTWV6ekFxN3cxcjJKOUJYV0wwbWU0ZUcxaTVRUlRWRjJGY29CMVNQQ2I3OFQ5S25lS05Kbmc?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Mojtaba Khamenei mystery deepens after Iran unveils ‘martyr’ mural - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUkc1dmNxRUxIbGNWQkpsQWtXRmNBbGgtanByeHFuUTJyV1hLUmNwcWpwMmFiaEJZcGRxQ1FfR1UtWVMwYWJ5VUFObXhBbHRBajB5WDd2Sm9LcTRzVEJ1SS1Ua3lObDhtU1l1Vmk0M1djTzBfMkFVN0ZwazJ6OHNFU1V5NzNiMXJ2ZDZEVkYyQ3pxUmYwOWw4MTJrZWVocW4tR1VORmhEWlotXzVCSDR2Ym9MNlFzNXM?oc=5",
+      "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Pope Francis will be discharged from Gemelli Hospital on Sunday, Vatican says - EWTN News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMTZBN1dfaVVLa3pyQU15WU5KeHctb250N0FDcXFxVGRmUEVwOXR6Q3M5T1FrczE5X1Rudl9XN0hxaXZ2SDh6Z1A5UnBBNjBsRFZSRUJZZ2Q5Qkl6dGptb1RpTEJyS3ZHN3g0NW5CTDVVaGcxdTBMX0w0aFhyZlA3WER4dGVCMmlfX0hwWFJBVXVONkVSTWlqZHZoTncwdGY1a0Iya05STkU4V2dxUGc?oc=5",
+      "pubDate": "Mon, 26 Jan 2026 19:25:26 GMT"
+    },
+    {
+      "title": "Pope Francis to be discharged from hospital on Sunday - Vatican News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd0VRVm9oYnU0UlhUOWl1WXVEX210SVB1NmZOaE5jUGtGNWVodEY1VkRnR05OR1JwOUlfdTNtaGR2VHhvbHgtSldrQlFDWUVHWHF0OUJYQmFrVHRWYklxVXJVWkJXdUdMSnNiVXZ3X2F4aVhiamFDQ0lvLVdyOU8wR0pnVTNBekJIcF9BUkhhQUFSZ2hoa3czLTNjZnpZZ1FPaHJ1MWpOMUhkdl9FOXpmQw?oc=5",
+      "pubDate": "Fri, 21 Mar 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Pope Francis will be discharged from the hospital on Sunday, doctors say - NPR",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWpfd0x1ckRjZlVVcDZna0xuNUZEVEdoREFWVXFqcXg3TTRRSnpVbVpHU2xLZUNmY0kzUHVWVXJMVm8wWkpwQ1hDdklTZVBEbXVkR05MblpPUGJGZHhQM3BQOFFNYzZ3SFhPeVdCUWh2OHdMQ0JsVUxoeGVkY3MtdHlLMVFtaTQ?oc=5",
+      "pubDate": "Sat, 22 Mar 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Pope Francis, everyman leader of the Roman Catholic Church, dies at 88 - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlJxVUd3M3RvLUR3OUtpWG11Rk42dGE2OUczOG1QbTZ1ZlUzWS0zcThWTXdlZGttcmJOTF8ydTczUFRLSVdwdi1KdVUzeFF6cmJ4ajNXMVZQXzA5a19nLU1RUkw2QUZzdXdzS3prTnhCREZkblBhME5Gb1puM1BTR1AyLVJuUy1XVmZTc1pyclZTbXFwV2VpVzJzSWZPcHFoVFRQbm1nRHFTcknSAbABQVVfeXFMTkVjaFBITlhyMFBlQ3ppeERiRndiQVRLVk1QRGpJTXZXREp2Z2hGTDFITEhmX05YOURPZmhjQ3J2N2d1d2tFLTZkUnEzcmVTem1OOEppaGUxTGxaV2lfRTRsaGNSaFR2aS04SHc4SVlBNVlNTlZjd0d2bEV1WjRuZmNMUzNvbVlxTnFXY1RPSmhzc0w4NmZNRUppNkpPdjdwSjJyU1ZFem1ua0FTc1hTY1c?oc=5",
+      "pubDate": "Mon, 21 Apr 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Nightly Rosary for Pope's health to move inside Paul VI Hall - Vatican News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmpqbnFTNDJlczhELVZjNUhQeWxoTEQtc3lleGNHRFhJWnotaUg2M1FUNDJ4X0pGN0FBc25tay1aTTJnNEd1bC1nYnpRSmp1NXBtY29nMjVPOFJGRjd2bWZqY0pQYWZNM192ZWFDbHE5aWdLRWY0SVJDSTlWc0dIUEU3NHEtcDZPakJCV1NkME5FMEU4Zm9XSG9TUjk0dW85ME1FV0U5WThLd05nS2c?oc=5",
+      "pubDate": "Sun, 09 Mar 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Macrons to offer 'scientific evidence' to US court to prove Brigitte is a woman, lawyer says - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wLWdKajVuSk55NWxYVjlpUjRFV1FlcUVTeTlweXhLc1gwR0xGMkVPSGUxRGZxRm5Xa25jRkdENkowWTE5cWIwb055Zjk0VnZPZXVCQ1VKc2JrZw?oc=5",
+      "pubDate": "Thu, 18 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Ten found guilty of cyber-bullying Brigitte Macron - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XbElZa2ZoVWZYU213a3BrODRGVjZHYjNoNzNkMF9Ub1ExUEhOME5RNFV3ZFBSdkEwMi1HRl9hNW4xcWdGajV6UnpaYWZNbVdjOElGQzZTc01yZw?oc=5",
+      "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Disability groups hail 'revolution' as France fully reimburses wheelchairs - RFI",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa2tVTTZMczItVnVTQjJKb2NLMEtiTVA3RnlFZlR4VFJlRVBqZE0xSmFrTGhFRWZrQjBRUVdkVGthbVR6Y01TTXNTRC1pN2NXOWxTSmhuQnB0czlFemhHUE1uaGp2ZFhPNEFid2drVjZ0bWZNeWYxUmpHLTcyRm5fUmtTYWhtS2I2ZU9TLS10Rk5nWExYYlpBekkxcEdtUXVUcFpEd2lkMmtkOGhOcHZ3?oc=5",
+      "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Dr. Joseph Woo to Serve as the 107th President of the American Association for Thoracic Surgery - Stanford Medicine",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbUpmdDRiTTFWWDVLaE5iY2R5WkhNWnpzVi1aZGN5dTFBd1VCYW1OYUxoczhJOUhrYTA1T2VVNjVvRm91Rk9rbUZtWlJBRk00RkN3ZVNvUlBDRFdCVm9MVldHaHh4eklMT3NlMDZxWGJFZHBHZ0xTNVI5Q0wxWS1FdlBrWTlHdVVEd0tVX3N5dnhLSUtXM1JQd1BDX1pud1Y1c3ZuVUxvTTJhLThHUXNn?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Brazilian ex-president Bolsonaro has double hernia surgery - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMjk5SmpDVFlYSkg5QVhKSVhubFdQdFUwSlRVS2pFTFVUOGRyRW16SDRNY0VmZXpwYXFvWm5paHdpMFpvM3VBZXNPZURjWTkxRFFyblRtYUZZc2NFQTdiZ0EyclFidVlrVjBSSExtTVFBSzN4RGdYTGxSZG03d0Y1V0t5dTFob3J4Y0drQ2tPTTlELTYta0lNWTNsWkMzZWROM0wzTWE2UllqZ0pZbktmNzVn?oc=5",
+      "pubDate": "Thu, 25 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Article | Florida Senate President Albritton hospitalized after blood clot found - POLITICO Pro",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN3pCNXBwNDRQQmtKb0pRQmpUSlpzVTBNRUljWnNJSHdram5DdDdPRWdOTlJZZ3ctSzBBWUhsNkM5eFFYWFdpMkZaQ2k5bGV0UjhaZUo2cThfT3RvOFhhUlJ3VFlFV0JreFRXaWcxZDlWa2NyWVBiSXg2dHhUNERGRERqTU9oQ290cllGX19mdGZQRzdjRFo0aEVZLWk0NjAtZEhXWDhwbkU4a3BwZTdOLXlJUWVpblM2bGFJWWpzdkNjelZneTJQdVZ3?oc=5",
+      "pubDate": "Mon, 26 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Video ABC News Live: Former President Bill Clinton hospitalized - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDaV81WWltWHhoWW5JZUs0MFVVZ3FLX2w3SW1yWGpDUjlENWx4WHRCX2g2bHVCc1hnNEJHdm1aNjVfaFA5eWdNZEVEcw?oc=5",
+      "pubDate": "Sun, 15 Feb 2026 23:16:18 GMT"
+    },
+    {
+      "title": "Dr. Garvin elected president of the American Board of Orthopaedic Surgery - University of Nebraska Medical Center",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXpUUk1yRkQ0UkltWHpDZGhVT1JNZTZyMHlOS2ktcjVuaVM5SGNCcmNxZERoYnI4S1ZHSkY5ZTRlSFI0cnVLaFpjRV9FelY2QVpaelRrUlF4OVFSeDc5MXd4bHh1dzUySDU5T3FKYWZJMHlGajB0SmxRWGYwSzI5dXc3MkRPc0tvWENHejhlZFBlUHZXZFJwV0hfblkyd3JjNWZHX25rRGhySkFpT1B1b0FaOVFJSkE?oc=5",
+      "pubDate": "Mon, 25 Nov 2024 08:00:00 GMT"
+    },
+    {
+      "title": "Israeli Prime Minister Benjamin Netanyahu to undergo surgery for hernia, office says - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONkZCTW02M2I5NWEzYVptdzVQLUVmeG1OQWs2RjRIdFJZbFVxYU9rVGdEdHdKdXBheGN6bFJDaDlrbWtLbXdqZi1nRGtQVTR4bGVVdVpJZXhWd2FfeGJxMDdhOXR5RjE4NWozd2RCbWxEdzlSaEgzY1F3RUtFY01DcTRoT3lVUzNsYXF5VXhxaVMyN1VSSUR2U2YwbjI0UUlUVGcyT0RUdlJ2SHFWeHBNdkN4cUVEeGxn0gG-AUFVX3lxTFBGTHRxcGwxQ0ppT2ZSYi1Dc1BUeTY2UWtCWVRERXZTZE5EbzZTMVNMSDM3cjVnXy00d0pHcWFfVWVTalBiTVpXajJSM016dldsMjlpb1BDaFpoWUhaR0t2WjkyQXdlV0lmbi1WQUZhVlFwZDhRVnpINjQ0MkVyX1ZsVEZSSnNnZ3c0QjR3azhuRC1DaUhaVUVaaVBOYWp3LU5IX1V1azczRnh2VGNBcjdSZ3VyaDcxSW5FNkhHY0E?oc=5",
+      "pubDate": "Wed, 11 Feb 2026 07:55:06 GMT"
+    },
+    {
+      "title": "'You are an Australian hero': Prime minister visits hospitalized man who disarmed alleged Bondi Beach shooter - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZDFKblBUV3RVQi1UUUV5SjduWVVVeW5WQWR4clBkWDVXVlVpUU1Ub2tRYkJuQzJGODlKcERkZnFlbHdfaWpxRWhEclc0eXJLRUdFaWZZaFNCS1E1VlRGSVFBN3pOZHBLNUJiSlJBZ0tHQjh2dDNfbGNWRWlFZlZ6Rmg5OWhMVlN0YVZKWXRubU9kTUlkbkNMdThzbG5RQ0k3YUMzZlJOVdIBrAFBVV95cUxPQjI3RmtyeklxVFJyQTdfY3JoMER5cTA1Q0V4cnVYREhuU1RCVFg3aXZiVG1OV01jSHZZOGtkMk9RRjQ1eHZEbjNEUFNybUNQTUtmbXZ0YWtDWEZkUnp1Ty0wRTlESnpTRkVQTmJYYU1oeGlGQ3BBTGZqQWxnazRDVnV3YzJreVB5VFJnOThhb0dQejVNeVNWX1Bwd0JWVE5VcEdvWjYzQUYwblVG?oc=5",
+      "pubDate": "Tue, 10 Feb 2026 21:46:33 GMT"
+    },
+    {
+      "title": "Haiti Prime Minister Conille Hospitalized Late Saturday, AP Says - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTWNfdEdadkw5bDRXVFNBRExMTEZ1QXZxckNoNkFPb2NmT2lLYlg1SXQyOHJPRm5ENG1aNy0tY3p6Yjh0Sl9YV2RFVkp6TVBFRTBMNTFIYjlRNjBRVFFKTXNFVDBmeUpWUjFwMHdiOGY4Tm9HeW10MFFXZ3Q1UXBXS3E3bGZzc29MMmV0UGJUM0NtVTZ3R05hTlJwaTBLSkd0TVlfdDRxS0NSMG1MMFYtN3VZd3I?oc=5",
+      "pubDate": "Sat, 08 Jun 2024 07:00:00 GMT"
+    },
+    {
+      "title": "UK Prime Minister Boris Johnson hospitalized with coronavirus - KRON4",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUGtwOHlEY3l3bi0zOXppSG51NzhuZWRQZlREMWxweGdKS3h0elYzUmdzdEtRT3BZQ0NNM29QZGxKVHBlaWlMUjNkNldIR1Vnc2FUUEs1a2VYeGdlWGF5ZW5SQ21jMGZRTEQ2eXMyMDFIQmRfRzd0S21HSTktWW5waGRWWklNTms0ZXdwQWlScU5vZjRrWE11MlVncEJaQdIBowFBVV95cUxNb0k0ODZMQ0hYeTd3MVVIalFuQ0MteFd2eE8tcHlsTWhtazlMTkl5d3NRU2Z1NHdWXzBubmcyaVU0aTdfS18wTmxSMEdPVS1BdjNNVkJUckdNZlRYdlVWX09ERGN5amxZQnpjc3lyTzBfY19uSFM2QTdhd2drVU9RTUhWNTBJZDZYcllaVnlsQU1rYXpfRTJqcjFFVUlZNU10SzRB?oc=5",
+      "pubDate": "Sun, 05 Apr 2020 07:00:00 GMT"
+    },
+    {
+      "title": "British Prime Minister Boris Johnson hospitalized with coronavirus as ‘precautionary step’ - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWh0QjY1dzVja3gxdDRIRVlMWmpoSmdKc1poTjhwSG92bC1SYnRWdmhQMlA4QTI1eV9ZNzRfaExJSXIzcWotVUlFaHJBV2dFekFCNU00RDhNTl9kNmZKNTROYVlNdklEQzh3VC1ZTGI4MW1ubkhRWHdqZy1UOUFkSGZuNGlDeVlZanNndk1xSHhyZ21SeTRKcVA0eWFCTHBMNzVPbVM0Y1hzV0VtVUtN?oc=5",
+      "pubDate": "Sun, 05 Apr 2020 07:00:00 GMT"
+    },
+    {
+      "title": "UK Prime Minister Boris Johnson in intensive care after coronavirus symptoms worsen - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMlRmNGpzbEhidENHVm53MGxoOHNUQWdEd1puN2lvaUNHeGZwZXIwa29tZmtJME5ZbUZ4Q0FZQ1NyOEZfMzIxUWl6aDBUa085ek9kNnNEQmRxUFZ2cTFvOUdiQ0dmZ1ZJNUdrTVZTYk5vX3lodnFMYmU3WFdIWENTTERpVmNZX2hDanpaZF9BY1dmQlNIekhrVVVEbjNHNEoySVFqc1hMdHNONTFDUXpJU09sQTlPaDVfU3lqTU1RdV_SAcYBQVVfeXFMTzlKekN5Z3RMNHFKam1PTzZ6VFlLb1lpY3Z4VUpwUU52em5PdHpYeTJPaTNhSXBBU2ZXeVdWd2Z5a2RRZGozRVk0TW1lcTRnLU45Q3VtMi1GOFFvVnVob0RGc3p1X0ZlclJXWk9OaG96em10ZnBON1M3THVDQUtEREhteEZic084U3lrOC1Hc2EtZnpWYXI1LWx3dy1hblFYNEk4MmI4TVJhZ0ExT0VkYXQtX0VHSGVjSTUzcmt3b2Q1bUdsTDlB?oc=5",
+      "pubDate": "Mon, 06 Apr 2020 07:00:00 GMT"
+    },
+    {
+      "title": "Israel prime minister’s surgery a success - Northwest Arkansas Democrat-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaW5xWEs5cUMxcUs4LXQ3MnpMMHVIb3Z2cVBJcFhBZXVmR2FMaFhNSUtHSUJxc2p0NUwzVkxYY2dDdnQ3ejRKTkFZSjZqbFRjRm5RMk5TdHJJVFZCdHVZejhxRFlyRlFRZ0NvY01Kb1dITF9yNDhHSWhNMkR1ekU5NEE0Rllrcjd3Yk56ZQ?oc=5",
+      "pubDate": "Mon, 30 Dec 2024 08:00:00 GMT"
+    },
+    {
+      "title": "Netanyahu to Have Prostate Removal Surgery on Sunday (Published 2024) - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS283VkE2WWlwZTQwUWxFMFpRNklOUlZnaEdZZjBOMzBtOFl3c1k5TnNmWUlMMTc0MGljdVRHNUhzeGZCeEFxRFhsYXJ0V3Fsbm9pNXNDcXVxVFZaNU1JVGhHTmthVU1RSThkWllsM210SWd4d3REMUY3NXIxOHBEUFBxR3pDWGEwNUE?oc=5",
+      "pubDate": "Sat, 28 Dec 2024 08:00:00 GMT"
+    },
+    {
+      "title": "Uzbek Prime Minister Hospitalized With 'Minor Injuries' After Traffic Accident - Radio Free Europe/Radio Liberty",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamRiaW50ZmViamZaVU9RbldHTXZ6cndQUG80V1Nyb0hCT2dlTk1ucU1hTGl6STNDeE4xcnFvQXBPYWZRbm9FbGZKQXRkVThBTzZ1dFJWelMwdHFCSDhhdWQwT19mTG1UcUQtbzlhNW9qdHVlS212SWlZei1MRjJWbENFM2N5RExXWG9PZEUxZjdBM0J1SVpNcG5vbWd4UDZzdDNnbmUzOXNLQUV5Q2FWRDVBaUbSAbcBQVVfeXFMUEVxWUNIUlpPUDVaOEMzTmJEcVlRQUttVnFEemxrU1I0YlNxWll1eUpuYlRUWUN0WDV1UG1vSlRxNjFCVWlKZXRBWkgwTjA5bGY2V3BXcEVvVDhNd3R6bHlxTHJhNTR5bzRHaDdjaU04TjhlVzVxWHJiZEVXdWkwT2dUaFBuci1OLUVQVTFoMWtXN21KSXRNZUZxVF9qb1pFS19ZM191Q1NfQlhMN29aREx2a1d1UFVj?oc=5",
+      "pubDate": "Mon, 20 Aug 2018 07:00:00 GMT"
+    },
+    {
+      "title": "Silvio Berlusconi, Former Italian Prime Minister, Is Being Treated for Leukemia (Published 2023) - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZXJSVk9pVWxoQlcxY0lKTUhHSjRlRmJZVVdtZFdCcUpCSTZYMTdIRzZXVWlMODFpbnlPMXpVanNCSU9tenpvV3Yzb3AtNEVoLUNzcm1DY2xRcUhZMDRZRExaRVNQSUN6UV91ampkSnk0N2FiTXU0ZXpral9lU1VyN29Fc0NVMURaWGxSMXpn?oc=5",
+      "pubDate": "Thu, 06 Apr 2023 07:00:00 GMT"
+    },
+    {
+      "title": "Haiti's new prime minister hospitalized days after being selected to lead country - FlamboroughToday.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQlVQanpWR0ZYOF8tVmItSU1UZmROWW5vVld1eTBQX3c0d25xU0JTa085MmthdVZOU1V1RWdfbWo3V3pINlIzYTZ0S1ZvMk1XM3A3UHJHeENtR3VtTVc3NzVOYTUteUxxczNvOTVCZkZidS1TNEx2N01SNTFUOXhLZlBVWTFWaEs1MlhNVy02Q2hjU1VtMV9JQ0VZRDlxTFlWeVdkeHh4N2dubEVsTml4czBCenRsSlFLN19mM3JGRzVCQzZ5aUMzQ0s4OU4?oc=5",
+      "pubDate": "Sat, 08 Jun 2024 07:00:00 GMT"
+    },
+    {
+      "title": "King Harald of Norway is hospitalized for treatment in connection with a blood disease - The Killeen Daily Herald",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTFJUNWdrVS1WeVhNaUhjWHdIdEJMQmdxQ2c1bDVYYmY1MGY5WEo4UnU4MlUyQ0U3NW83YndwWEs4bkFOemRSMElyWWhKLUhUWS1wVVRxdGtlczhIajJobFNwYTFmLXd1X0hSOF9DMzlsOXFtdG1MLXVoT1J4Z1QwTU1ESXZ5b1NldjNkQ3ZmX00tT2VxV0pWcDFTeFV5cXNXeXc4R0M3ZndFemV1THlmZTBVUkFjY1hIdERLa01VUVVneHpydzFtMm9oeU1CTnJlSFN5QkNydjIzQ1BzbVhUV3pVbVloUXNuLThEY2tqQThVWFdfNzVfOTRHZw?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 07:32:21 GMT"
+    },
+    {
+      "title": "Norway’s King Harald V Hospitalized in Oslo After Fluid Retention From Hemolytic Anaemia: 18 outlets compared - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONlZ0RmJfU0VobjhXUDdnS29RN25Wb3diZ1ZZVGl4dmVHVEl6aGJCV1R0cl91UXNfOWtKQXM4bjBCN1ppUmhHcGF3NTZISUJvV1QwTDhaSHBOa2hGUjE3VlIyU3B2MXMyWFQtSUl0Q1NrcWR6NDhKTzQtaFJqLW8yUlZOVDcySXFUUWJlMjlfQ1RreUZmVjBfQURQUDJMUmpqbE9oT0h1Q0Q2OS0wbnRxWUpzOHhuSDljdEo3emJ2Z3M3OF9RdGNjZUkyNERndmNkNnRPSVJuVncxVTJBbHRadHgyQmUxakVp?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 10:27:56 GMT"
+    },
+    {
+      "title": "Angel City Football Club Removes Defender Savy King From Season Ending Injury List - Angel City Football Club",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYnZBdTdRZ2pqemhYZG5mVWhoWTJEbW1CXzlseHVXbWFLTElxYVdHaXludWR2WUVPa1RvdjZWeXpXODFGYmFWdnY5cWgzWGdtaXlmTjNfdVlwaFdmSFZLZmF5YlI3LVZDTE04V0pLa1VIQVFyNjNmcjEyaEEzZmZTSWtTUm9HUDDSAZcBQVVfeXFMT2ZETjNXVEJaU0pGU3hnc295TUhkWjkzbTE2OFlZUmZvMDhpSThZU0QwODlVdzRMRjJvbVhJRzJPN3pPQjQxdWlMQnUta2xjSWM2anRjcVFUa1FYdG1ydmh0eDJQWUpCWG50a3RnR2tBOExjbnVnd1Vsei1wOFFvUXplS2k3OU4xQ3IzR242UE1rV3RjNEdyQQ?oc=5",
+      "pubDate": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Dental surgery helps retired draft horse King breathe easy again - Virginia Tech News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UT0NSZ3BiQVVnZDYxQWFaOVlJaUhKdlhRM1VFVkkwSGNYdlItUlh5OU5UcnZyS3NPeTB5UmN3LUQ3Zzc5VnAwY3N5NHlVejJOazdKX1ltbFdhRVhaQnZLQ0dwNWF3NDltTlozVnV2NEo2ZkxhcllDd0NMUQ?oc=5",
+      "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Angel City FC’s Savy King Describes Her Heart Recovery - Cedars-Sinai",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUDhGUldYSDRiMlhiREx3YUdrblVTSFdwLTZ1bzhYRWE1YUVacXdzbHhPV0RycWYwdGYzckFRdTBEYkhob0JlNkYtZDc0bXNlRFhMYkVtQ2JsSmlTWThpQ0JsS2NLc1JqdHVrS3p6SERVbmpVMng5TmQwWlJZRm1tSnpZU1Rqb3YyeVdKendYV2IzekNiZkxWUzRn?oc=5",
+      "pubDate": "Thu, 25 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "King Street closed after vehicle accident leaves one hospitalized - WCIV",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT0psekFuTllaLS1xa3RxU2VaUnJ0YmJBc0lsWi1ydWg0LXU5N2hEYWlCNlU3VGM1NzJ3SDdUZ0JVUWkxOVlONkdZLTZLOVVPZ0RSaC1OcFl0Z2Q2TlVQRzVPUHZhRDFaOWczajVXTjNRVFJ5cjRWaURrNnk3M2dZTnIzRThObmhMbE95bEdhZE1BSWplTmI4Qm14YjhoQQ?oc=5",
+      "pubDate": "Mon, 02 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "King Charles III’s Goddaughter India Hicks Undergoes Surgery After \"Fast-Moving\" Skin Cancer Diagnosis - E! News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQanoxWURuTTNSdHU2MldteHFwcnBpV2ZKTUp1WDRpRWRsV3hRWUpZOGhyNnhzQ1l1NUJaVWVPTDMySHRJbnlyM0dBTTZGZk1GZXlOVmVaWkllVy1qMG9ld0tlcEQybGQ4Mktic3NITng1alRKNWZPN3hMMXoyUngyWjlBNUN1Uk9hbjh6SjBUc2tPdEJIaVFfeHVkYkg0d0dPZDE4eQ?oc=5",
+      "pubDate": "Thu, 04 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Prescription drug monitoring needed after weight loss surgery - kcl.ac.uk",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWm1aNTRWb1N1bzVQU1ktTmxWQm1yRktROHZ6cG1waE1wSnlQX2dZTXBtaFFQTnFHN2p6N1J2U2xrSjQ3dk5LWUVPdUtBMGpKWGVvYndtQldKMm5mUk1VN3FQUldOZTl1WG9XQ1JmNGc4TGxjMms0RTZEWHh4eEJyd1dvS2pYSi1pWC0wTGdPb3pvUQ?oc=5",
+      "pubDate": "Tue, 16 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Gayle King's Face Transformation Since Her CBS Debut Is A Sight To See - women.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlhWWkVSazZrN011WktlOHJXZlREVmYtSVBiM3g3dXZNQXVfSGdOa3ozM1dMeGEwQkhia21RNGg2b1VLRWFxdmtMUTRIallwLWdGWXFPcUw5czl3WldUZkhUNDNEdmdJT29sUXJwZU50cDJuTFFfZFc4UjdEbUdUWGhCMFUzSjJtcmItYlVhU3k?oc=5",
+      "pubDate": "Tue, 16 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "KKTC Cumhurbaşkanı Tufan Erhürman hastaneye kaldırıldı - Dünya Gazetesi",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ1BqcV9DUGktbndORGxMY2ppOC1ZYlp2Z2hEMXE3emUySGVmVnhBMkZLR09za01UWExoOGdNLUo2TVZ0VmZMU1lsNTVfR1A4RnN1NG50cDdOelZkUEdHb0N2LWdObDVSZjVpbk1jZnFTVlF0WUVEbjE5MkNIZDUzTFdXV3YwYWZWWVZJck1yM05tTWVRbzJKbFZ1YXo?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Cumhurbaşkanı Erhürman Hastaneye Kaldırıldı - SonDakika",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSktYRXBydXRuVEJIaTdSLXBLczhqaE02OGVkMHg0Um1FSDBWdkV3SzJuSGJLYlN5YWx1dVpMZFotWTdzam5PaU03MDhDUFYzVHBocGhnbjdZTS1fQWY0NV85cTU4Rk4zMGJ2d0ZpTkl3cjRVVzBlN3B6MUVpaTFuMFBjNUtVem80aWRvdnQxSmtPVXRRYlBv0gGTAUFVX3lxTE02V0EyQURESEhnaVU1ZFBSWVVQZFhTeTJQS1hpZWNwcmpURzloQ3ZVcHFOTFd2aEFvYWlyOUdsSkR2UHJTOUVTWTlOYjI3ZGVxcnI3cG1uWnRCOG00NVhtZmNDTF9aQ2MybS1ZS0R0YW1ORWdid0RBN3FONkpkWVUyVkhFVEg3ZW4xeDk0LWJocmtIUQ?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Arjantin Cumhurbaşkanı Fernandez hastaneye kaldırıldı - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS1liNllhX19nNzdTVlF4UlJ3b3FuVFNzemhPMWxCaEloT3pyYjVYUFpaNmhxRzRFZEh2RFdHWC1qckpQb015Q282a0cwbURJUmhnc2RWVnhHeWQ2SmNGQ0NacU55LUlpQVJHdkF1OGxrWmhKeVBGcm9yamVOU19mTTl5MU56THpZMU9zb3NUTlBaNUVfX2c0?oc=5",
+      "pubDate": "Wed, 15 Mar 2023 07:00:00 GMT"
+    },
+    {
+      "title": "Tunus'un devrik Cumhurbaşkanı bin Ali hastaneye kaldırıldı - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQmZNSnRGdHAtaUpaeWNRVGxIeXFnNHV5cUZEcGpwMVVUOF9SWUJXdGJ4SmUydjFpUHVvMWljektUdDZraEdRdmNaLUxXRDJqaWYxa1ZNaFFOSkhUQnd0eHhwbDNfWjBjSzNVTWh1cjAyOGtYMlUtYjIxX2FPSU53ZUNVSEVQRE9oWG1mbVVvS19ZTTdYdS1ZaHVyZ2Q?oc=5",
+      "pubDate": "Fri, 13 Sep 2019 07:00:00 GMT"
+    },
+    {
+      "title": "Başbakan Erdoğan’ın annesi vefat etti - Takvim",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54UlVaZ0lrbVVnRG1QWVBfMkdvSEJSWnpxdWtZaEttWUZoemNicjN4bTV6NzVNckhrdEw1dkQ0SUx5WldydEltc3Brd193U3NQdjRrU2hDWUxBdmFGVFpXQTRQVmpzRTNoR1BmblVHQkhKUzU3aW15alpHTQ?oc=5",
+      "pubDate": "Fri, 07 Oct 2011 07:00:00 GMT"
+    },
+    {
+      "title": "İslamabad'daki Yüksek Mahkeme, Eski Başbakan İmran Khan'ın Hastaneye Sevkine Karar Verdi. - Mersin Haber",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSWdwc3dLTVc3SzdMUk5HdnY1TVRvUGg4MkhkdHNKYmZfNWM4dnBWV05wY0R4ZG1ORWRWSjN4NG51QkZqMExtV21yeEhURU84NE5LTEZyQU1fVFBRVUNhaEp3WmFnRmxiZEdSdHVfOHAyVEdRdkFLam41ZEtEUnUtdDRid2FCc3IzVTZ6TVp6VDJWeWsxSzQ4STdnQnlaQVFlaXNVMkhaNkx4aDRuME81aVRXUFJNamdXUEVfTE10NmI0NVhE0gFXQVVfeXFMUHlBaHNWUVJVWDlnMURHZ1ZndE1lQ00yZnZzV0JRMFJYSWxrMTBSLXgybDhtWGJ1Tk1IUkpBaEdLR3p5Y2ctaWp5VXMzWUlwMXhkemowNGdr?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 10:19:00 GMT"
+    },
+    {
+      "title": "Miçotakis bisikletten düştü: Yaralı Başbakan hastaneye kaldırıldı - TRHaber",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcFhjVW1yU2hqSmFJZEJ2T00yX1hKaFRvc0FPeEp0bWxGcHI2bXBraGtuZHJGNXpaSmRFV2luaVFnRFI0cXI0aG1IOE5Id2JlV25EamwyTDhJSm92NTlmRVpIQ1JSZ2JrYXh3YlYycXVHQmlWRWo3cUNnVW5qUzk1NDFjV0lkQnQ2ZW04RmpsV0hKb0ctcEpYMVlReXRqakx4TS0zU25lS1c2QlZYdkNZ?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Pakistan Yüksek Mahkemesinden eski Başbakan Han'ın hastaneye sevk edilmesi kararı - gazeterize.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRWdxYVV5Q21EdE1uN3B6VjFuZUhhaWo5R2RreEZ6MUppblB2R2RvbUtGSENfNmh0UmE2aTVzcnVGN3NmQW8zZWk0UWJYeTFQaHpmM0NUZFYtbGpMa3YxR1dBRUJHR21WWm41U1dIYU50VEVfbF9CdElidjE2QmhZU3BMMy1Qak0zTWtSOW5MMi00VGNwYjBRaHBpMGx0dm5xNmtYQ3Y2aFZhQ3M4NXlactIBsAFBVV95cUxQRWdxYVV5Q21EdE1uN3B6VjFuZUhhaWo5R2RreEZ6MUppblB2R2RvbUtGSENfNmh0UmE2aTVzcnVGN3NmQW8zZWk0UWJYeTFQaHpmM0NUZFYtbGpMa3YxR1dBRUJHR21WWm41U1dIYU50VEVfbF9CdElidjE2QmhZU3BMMy1Qak0zTWtSOW5MMi00VGNwYjBRaHBpMGx0dm5xNmtYQ3Y2aFZhQ3M4NXlacg?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 10:19:45 GMT"
+    },
+    {
+      "title": "Yıldırım Akbulut kimdir, kaç yaşında? Eski başbakan Yıldırım Akbulut sağlık durumu nasıl? - AKŞAM",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcURpTnZ3WHVmOVhkSXVmRnhGYzFvYlNoQUY2YTZaYksyd0hyTXZwOGN1eUdIb3A5YVJwVGhvZ1dUTU9LaDBFVXcxZ3ZDVnBjcE1vNktGem1XVWtPSFBzT3U4MG9abVlzMnhhRERUZThYNjFDWXJVY3RZUWtJQkREc01kU0hFZC1PZE9iSmtoeUJnUVh5SGNIY3kyMFViZ0VOMlZVMWZmYVNpem5icWpVNWtkb0pqOE5WeHRMRlAxbzhDNHZkRWtLemotWlTSAc8BQVVfeXFMT0hfRzkxLWpieXZCMWhsZXVIaWJOSS1mbkpBaHhlVlV3QXFGU181RkpOYmV2OEg1bHlHT1ZEbTQ3c3FZb084N3pERFZZdXdTTzJFMFZLM2MyMWRCeS1kMkVqcExhZXJCNnZLUnVwcHR4SldHVmVvOGZzTHNlLVIzZncwV1Vid0pTUldYeU8zUE5tVExRUVBDRlRzZnZZWDVBbG9ZMF82TVQ0SE13OUF0dG04b3Fjd01QamQ4cEVlbE1fZ2hYRHE4aEZ2VUhCaE5Z?oc=5",
+      "pubDate": "Thu, 19 Nov 2020 08:00:00 GMT"
+    },
+    {
       "title": "Cumhurbaşkanı Erdoğan: Türkiye'nin küresel enerji tedarikindeki kritik rolü perçinlenmiştir - Anadolu Ajansı",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNamo2d1pLTWF1cUdLSkFpV1VOTnBIenpJam9iLUVhYmI1MlZPbHk1cnZSUlg2Ri1tdHhUR2Q4M2pONVk0eUVTaklPQXJBU1NGdXBCTkJYcW53b0FKQjV2TDRRZXB5Y3VDWmttV3pNRU9Zdm1SRGtQUlZVTVdzMzAxOWdBWmE2OGRlVFNYb3g0cHRmRGFJRUtGUUc4OXZESElFQk9yc0EzWDRXVEpZS2J3ZW5yZG5abUtqVWd1eFkwT3F6RmlYNVMyVg?oc=5",
       "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT"
@@ -9369,637 +9999,7 @@
       "title": "Beştepe'de kritik zirve! Cumhurbaşkanı Erdoğan, MHP Lideri Bahçeli ile görüştü - Hürriyet",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN2ZzZ1hod1NpMDQ2ZGp1Rzl3VFZBYjNZc2RGdzZiRnNtcGtQeWYxSUp2UUxUNEhnaFd2OS1IU2FTc2NtZUt0Qk9PdlVOYVNkX2ZjUThRWVJNNkt2TlZoSmx5bzZNQmtQUVFaT2s1TmRvMjNsNTBKUU1Xa1Bxc2Y1SHR3VFJHZXh6ODFsNnduTXlCLUhUbXV0UlJmVEJLM1E?oc=5",
       "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Çerçeve yasanın Meclis'e sunulmasından sonra kritik görüşme; Erdoğan ile Bahçeli bir araya geldi - T24",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdzFnMl9DdWVCY0ZGVjlqU2x4WExQWXBwVXdXd0hzM2dkdDlIeTFHN0g0MzdYR3RoSlh0elVVVFluUWtMOHJHeEVQZngyWUg5di1KWkk2TzNqT1RIOUZWWmJFZUluVXNaekV6TUctUml5R2FsM2JFWGNiMm4zT0g3TEwtSk9hancwN19nQ2Uxd180dHlNTHAwVmhnSmxnZlJ6a09YSzQyZTBzR2c?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan: Avusturya ile önemli işbirliği potansiyeline sahibiz - Yeni Şafak",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHRscFZjNndTZ1NIa2RyYUgzV3JQdGJNVE9Jd0dZdEVROVlaU3BvWFpoQk1Pa2Z0eHFUUkZhZGljQ3RVNHFXMnpESWlDaVlmTDNkOVowbmtfa3AtakZfcDJvanRlU3dORmNkLXFEY1p1MFdSV0hrQnpsU3JGVENWc0Q2QTJybVRZUWk4am1MR1NiUUdCSVQtRFRUX0h6enBaRFQ0T1hSOUNuQlRuWEVBdUs2UGFCVHVUYnppWFpn?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Başkan Erdoğan'dan KKTC Cumhurbaşkanı Erhürman'a \"geçmiş olsun\" telefonu - Takvim",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaFRHODR0T0oyT1RIRWIzQmxVZ1JIa2QyZ3NZOUdsZlZuRWdhZlQxMEtSSVVMZG44TU03eU5zbEtSSnF6MlpUU01IYUNFbXZueUhoLWdneDF0OTFvaERNeU5tSU9BdHlyeWNuWUZZZUJrTnc4RUFzWi1LS2FrbWVrVGtwOThyWlFsTWlPU3VNZ0ZRMDZUOHpFQXRqcm53bGdneHBmTTdPeUNBY3NTOU1kZG1B?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Ankara'daki NATO zirvesi sonrası ilk kabine: Masada kritik başlıklar var | Gündem Haberleri - Yeni Şafak",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMzZXVC1tWHJXTkE3SWhZSUtYdG9WeFhrdlZ4aS1waU53d2k5azV4TnA4RUR2YVVBUlI3dUY1RzdJTUo0T0Q3MktwTjZuZjFOOGVfdnZXd0UxSDBSamlwbTd1MElFSkFmYXZKNXZJM1g1U1hicVF1SHF4NF9rTXNTVUdkeHFNeGlkbkV0VWJ6bGlIcEt5LXBlbFFQeTBTQ1hwYzJUWWhyRHlpT0czeXBtag?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "MGK’da 11 kritik başlık: Milletimiz ve komşularımız terörün ağır yükünden kurtulacak - Hürriyet",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTHQwQkVVcHVRbS1uM0FKVkRwamhwYV9fNlRQNm4wU1FZS3d4c0dhUUV6UjNDTmxWOEotTDRDTzBWWHhOUDJ5ejNsQnRTNERpdjZ6aGlRUFZ2ekxERWs5UlMzRHRZZ2ROYVBoQkZEMGY4X0M3MUxzampYRjFBMlA3S3QxMEY0UDNEWnZ3NWZ3cUZ1bWJaNXprUw?oc=5",
-      "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Kabinede kritik başlıklar: Orta Doğu, ekonomi, güvenlik - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUkNjTUlKRWh4ZTE5U3ZyLXVzUS1zNVB0ZzM0X2xtQ0xxYUpaN1Z6ZHNucnk0MklmemNJQW5mWk9oTlVLS3ZGMXlRbHFybElwU3RYQ25MSnk1RE1CODUwcTVOMVNiaHFWZkFLY1l4NjU0SDBNUDU5YkpEVFRZSWt4UXp4TjZTYjhvZzdVRWw4Qy1XME9pdEY1ZUVVUWF4ZnBrVkJHQg?oc=5",
-      "pubDate": "Mon, 18 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "İki Hafta Önce Başbakan Gelmişti, Sudan Cumhurbaşkanı Ankara’da Erdoğan’la Görüştü, Masada Kritik Konular Var - Stratejik Düşünce Enstitüsü",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdmJ6YmlNZVFzNXE5bzdWSnJtNks5TW5ZVmhOamxRRDhqc0xUaUtUQ2YtZ29LSjdEcnNGamtTc0dBcVpYaHJaTllSWDZZenhoaEVUVVNJT25sVzNHRm10U09XSms3MHBDdmN4TzdmQzU0eG1CaDZBbm5wUWxLcXRGdF9hTGtibDRTUkwxVGdNX1l0c3FUaE9pcVVKdlRLcVA2dWdqTkNzTzVNUGRnaWhLNjNtOTl4anNDbEJIZ3NIS2pNS2JMUldiV19HX2pVWEZGaWF6MUlqdmNuc0czTFNtQmRBOA?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 23:02:38 GMT"
-    },
-    {
-      "title": "Kazakistan'da kritik zirve! Cumhurbaşkanı Erdoğan'dan Türk dünyasına çağrı: İş birliğimiz artmalı - Hürriyet",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeFZIOWRRM2lmWmhCWTVibU9sbGw3YVowM2d5YUIwZHBiQ3Fmc1lIUkctLWdOeGRKMVp4UmliNVY0TktfbG16RTlkTlM3WUFENE85Rm54c2Rac0wyTVdrWkd1Q3hrWUNEaWtycEFrSlh0dmpPQWpSam5PbjktV01ZV09kdXIxMVlyUGFrR0c3M3Q4b0lnSzRhdjlRTHl2TzF5UjM4ZVNTeDBFdG1WZUhJaURMbFA4VXRtdWZiMlRUOUlOeXZVbjRqS2Y0TDY?oc=5",
-      "pubDate": "Fri, 15 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan: Kritik ilaçları artık ülkemizde üreteceğiz - Medimagazin",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkhEb2g3eVRhMmxjbWUyNU1oR2h1R0tQazJwaGxZcmZqUzJMTVZoWXZiYlZsMlFkaVNXMS1fV0JVeFVuVmczSEFRczZXS1JUOTJzYWt4bmtxUThXM1lCSlRHTU5PWDBQV205VzA1Q1kyaFp6TmUwQTE1Y1lvUDlGc05fVXRPNklrSUhLSWF5cTl0MThYT2pWOVQxcUxFQnFxUzVaajhJUnVQTEwxQ2o4?oc=5",
-      "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Tenzile Erdoğan İlçe Devlet Hastanesi hizmete açılıyor - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3hCbEdDYXNUZWs2UkN4a3Q0bTItdzZ0Wk1ydFZrTWZHaTV6SE84OUdZTlFnbEg0MDloU1NUR3h3UVVpT1ZXU3VzYXFQMzNXVU5LVFBFYzZzMF83T3BYejNOa0hhNXhDZG9HcERmYk5Lek5iOWwxZ0ZEOXd2ZjVSX3BKZEZOYTBaYURiTDJkVjZZM1RXTTdUZjRsb1dZel93RU5pQVhhVQ?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Başkan Recep Tayyip Erdoğan liderliğinde kritik zirve: Siber güvenlikte yeni yol haritası - Takvim",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONTZ3STZ5SEhXcFdNTmNCUEQ0QktPcEktRklhVkIwcWRzOVJER3FzMV82MU9HRGV6S3R4NnVJOWNUV1RtalpZaXdHazdzSVJqS0FReHNnUDJvT1dQWVhTRzFHZkpCWjRQY0wtcWtHNmIzNE9UQnItM1VwbVBPc2ZZdDN5WUdIN3dWVnFsdjN6a2N6Yk9wQ3ZfdndNbVdBNWsxTzVIN0xPRXo1MGRnT1dCOVZzZjk2SFJGWHVLVFZwTDRpNTdlT1lOcHZWWXI?oc=5",
-      "pubDate": "Tue, 05 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan'dan Ankara'da Kritik Avrupa Birliği ve NATO Mesajları - gdhdijital.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYTRWV3Ywc25wdUh3OWFzcXVkZndCTll6YTRkdS1CVWRTZ3plM3lqZHhuLS03MlFCRnZvS05wOGVVVTRpVVQ4dE1zYUJGQlAtVXFhc1FyTGZXRFVMT2Z3V000aW96ZXZfLUE5dk5lMUVwdlBiX3MtLVZRMlc3VkFkUlVPNHp3U2J0cTRKcGNJQ2hKSFo3clhHTVIydjdqQ2Vkd2VNcnRPbkg5QlJ4T2NndFFlQ2I?oc=5",
-      "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Başkan Erdoğan'dan KKTC Cumhurbaşkanı Erhürman'a \"geçmiş olsun\" telefonu - Takvim",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaFRHODR0T0oyT1RIRWIzQmxVZ1JIa2QyZ3NZOUdsZlZuRWdhZlQxMEtSSVVMZG44TU03eU5zbEtSSnF6MlpUU01IYUNFbXZueUhoLWdneDF0OTFvaERNeU5tSU9BdHlyeWNuWUZZZUJrTnc4RUFzWi1LS2FrbWVrVGtwOThyWlFsTWlPU3VNZ0ZRMDZUOHpFQXRqcm53bGdneHBmTTdPeUNBY3NTOU1kZG1B?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Tenzile Erdoğan İlçe Devlet Hastanesi hizmete açılıyor - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3hCbEdDYXNUZWs2UkN4a3Q0bTItdzZ0Wk1ydFZrTWZHaTV6SE84OUdZTlFnbEg0MDloU1NUR3h3UVVpT1ZXU3VzYXFQMzNXVU5LVFBFYzZzMF83T3BYejNOa0hhNXhDZG9HcERmYk5Lek5iOWwxZ0ZEOXd2ZjVSX3BKZEZOYTBaYURiTDJkVjZZM1RXTTdUZjRsb1dZel93RU5pQVhhVQ?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Erdoğan'dan 'sağlık sistemi' övgüsü: \"Vatandaşlarımızın beklentilerine cevap verir hale getirdik\" - birgun.net",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOGJnLU81OWlTXzlnRFRaM2NsWDFKelhuc2dvNDJLSjRBdk5YajFuT3VXUVNIZFlER2laRTRIb3A0OTdkdjRGZmpiODRzc2wwOUhBVTlITzZEMlZFMjAxbk03UFlUOHFhS2t4LWw5YlFHZklkcGtqZHFIekY2eVZpOFZlN1BEZXlxb1dwdDg4QVdOV1RXdUdycGRBMFR5NXpPM1NWVUx3NXlyRkkzSHlkUlhyUS1hQWo4RVlYbW5RWlJkcGxQejlB?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Erdoğan, Türkiye’nin yeni yapay zeka yol haritasını açıkladı - Rudaw",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11N05aOWhsZkwzT3dmSV9PbnJmNWFIaUs0dndXQlU3YVQ5WEdNazVjLXY0b1phNGN0U1pOcWRoNFFSN2tGRVBlWE1yUVQ5bkJUQWEyWGRqbGFZNWRfUk5xZ2dzTU1Tdw?oc=5",
-      "pubDate": "Sat, 13 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "\"İsrail, İran ile Lübnan'da okul ve hastane vuruyor\" diyen Cumhurbaşkanı Erdoğan: Türkiye çözüm arıyor - Milliyet",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnpiSVlyTlpVSFA3RVJtbWJuOUhyaDZmVTliYlFrTnc1TFpVeTlxYWh4REdyTi1qTnJiczcyd3NCUEF4WEpaYi1URUI0QkpQek5GYnI0RFR6U3pNMFZ2a1JsTFB2UG51UWZNNkNzOF9nS0xoZncwcHBtV3huZGdmeWN3Z1dTQnhGYW96YWN0SVVVb0QteWltWU1XNjQ4WjR4QnYxVjJDRHloN1h6c0d4Tg?oc=5",
-      "pubDate": "Sat, 14 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "﻿Erdoğan ve Tokayev huzurunda imzalandı: Kazakistan'a Türk imzalı sağlık üssü - STAR - Haberler",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUG9jUnIxX2xGbkYwSnI2TE9EMGprMkVXRHprQ0RzVGdaVGJ4a24xaXNsd2JXQldlenJ1WE1XRzRRdXJLV1RtOHYwQmtrRkQzTV9DRW8tQTBGcmhKLVQ0d1RhU3pBeG11ckI5bnJpNzZaYzhyZG5LNjRlc2VmNXBzcGFZazhlc3VTWTIyTkRGVXZVZEdGd2hoNHY3VW5wSVY0TXpwYmJWa0NldlZfMjRoa0VaVHNYdThrZWRz0gG-AUFVX3lxTE85TnpsQjNUVjRRejBHN1o2QVFVaV9aODRYb1pyUi1WUzlCLXpDTTUyeHItX1pQSzRhYTZjRmJXZzZaTC1XM1JFTExWRHoydVVKYjBoSXZoZWVkZzFwRDRPeWZDcElBN0ZqT0ZNY3RwZDFLaVZSdmp0T2FMZHNmN0lremR3T0FQSGZKbHdoWTZ0MU0tV0ktbFlPcExOWElPY29sbXRMWDA3SkVuRXYwTWtXcVZfSmY1Ni0yNldnMUE?oc=5",
-      "pubDate": "Sat, 16 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Sağlık Bakanı Memişoğlu, Güneysu Tenzile Erdoğan Devlet Hastanesi Açılış Töreni'nde konuştu - Habertürk",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSnVnS0F3T2w0QmxpUkx6NTRQOHlJMmFIc1RuVmdKaF9jTUNPakJEenh3X3FiZWd1NWxlOUNtVXZDU2tCV3NYdGk0QWppd1YxN195Z2hmb244cDA5SG1ZRXZTRTUwRUlwNlRFRUxwUUQwcDVGcEhxQ2IxaGJpME5SajExMmlnejkxR1F5ZE1KR3Q1QW1nZVYxd0xqcDBFV1FlSXZEOG0zdjZ4Q2Vtem11cnQyRHluZ095XzFXYldheVBZaVRadDJfVzBXNWo0N1UwM2ZyS2kwTDh3RVN1ZThoVXE3eng?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan: Sağlık alanında artık farklı bir ligin oyuncusuyuz - NTV Haber",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMDA3SUdCNHVsbTExVEFKSXJDbnFjZGdOYWRkTV84R1o3ZGhrRE9SVWlJTURLSTJaY1RxeTFlMmlwQU1MMHJVZmF3cEdMNXZjWUJzdkFRalFPY1c0QnlxOWpMMldIcEx6X1RudzNNcTRLSXdOcEVZZGJ6TFhlby1LbXN2dWdCU3FWOE53eVZWRmZKN1cybGlBaVozZ0dXU0xQdEVCLXlhZTM1SGhYT1VqTtIBtgFBVV95cUxOVmZIbGZ2SVA1MldOd2pEdFVwblV3UlFtZjY3RHkyUjlVV2JqN2U4VFczaGZlbV9OdUhOZzNmQnNhSzdWVVNNaTNwaTU5RTlVNHotRGo1TTBvVTJOVmJ6ZDlTcHI3MFp3aVBUM09KNkdXRzc2bEF5QlhVWlhJTkpOSVcxZ1JoRXZzZXpxbXJFMW1DNmN2MlktOEFDcVBvTEFuSmV1aHluejFxY2ZSNDFKSU1tckhVdw?oc=5",
-      "pubDate": "Fri, 26 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "Top Doctor Sounds Alarm Over Serious Health Concern for Trump, 79 - The Daily Beast",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb1lzbFp4R214WkxNX21wNDcwTmlTM3E0OU02V2xGdk02WW9XTmxza3o2VlJxeTgyaGhoVE5oTlJmMjRzTlp2aXZmSGpuejVNUHVKWU9CVjgxSnRDRGxTOVVmVDE5YldYakR4N2s4SVJ6UmlwZlhwMTYwZDlhazBKQXBpZ05vN1loVHZOYW8tcVZSckhQYjFTX1VWYzdvZ3BTZmJaNzF2RQ?oc=5",
-      "pubDate": "Mon, 25 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Jill Biden gives update on Joe Biden's cancer: 'He will live with cancer for the rest of his life' - WTHR",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUFFsM3ZHSmFhSFNzcTBDNENfeHVHeVlMdU9aWUhSMWxTWDVLZzZyd2RLRE55V1lhLVMyNzFIbWUzT2FYejVWcU5HMlJqdmFQWEF6Zkd5eUxkdk96LXQ2ZXhoVzlCVVZ1Rkd5Y1M3S3BBZGcxbDBybGVnT2xrVFFuaURsQWNpcXRMZlBBSHVKMEtvWWRSRXJlbDRhaUYyZ21lNXRSZ2h2emhVRDV2OHpHbzZ5MTc3MWtFUXJrZXh6dFdFcHBSTVcyUQ?oc=5",
-      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Joe Biden’s Cancer Prognosis Gets New Update From Wife - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWHVEOVhiLXRoZ0JKQkVLcjdIMHY4ZEs2TjY1QU92MFFfR002cEdtd1BZbGJsTzE3R2c1MklMb011SnU0dnRtYkRMMURuVlVNaFplVGNPSWt6R3FuWEZCc2xGV0FwUXA1UU1qSWUtam5GRGVRQlE4a2VpM0thZFdqWFpzRkJOVTJZN1dKdnJxYy01dE1QN2c?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Hunter Biden says former President Joe Biden's health is getting worse - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWHdSRURUUnZoMXY4ek51STV5N19YVGx4eXFoNV9nWndLY2FDOTRfbnowUGFaaGhyNmdGMHhLTkM3OWZJMTRpMkZDUXhOQnJfeXZaWXBacHVhSWZNYWpCVkl4QW50YVR3bERNdGtROGlDVHlZaWJUaFN2c2F5OERLeW5wZ25SUk5uSGVV?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Social media erupts after Jill Biden reveals she was 'frightened' watching Joe's disastrous debate - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObWgtRnNHUlZDZVlFM0FVRWRtMmdnZlR1Yk92aWFCYThyZU1DbW1uRm5YNXJMTGxEODhrSVRyWklYNzRIc3NRS1VnVnh5RTR1cFpRTkdOcUlJVzBDTTNNU1l6bXV2UWVEaVlMTndpSEZlY09zaUR5QTFacnZ5M21KaUZTcVBLWkhJXzU0eEJ4cC1VZVdGOXJZclpwdEZ1STJfUWYwMURaeEFZa2ZHTm4xX0RYdFA1eDlQTUtMZVpDejVmbkxMUUHSAcsBQVVfeXFMUEVpb2N3SWJUX1BTTGhMSHo3WkZPMVdfemMwQ2tkc1pzczdUVWZoSXFhV1ZCdzZfNlFtS0JiOWdDaHVzRWRRai1felNacjhLci0yOFliTldSSjRFZ0ZlYllhRTFPNXlWSlhsRXFFSWgxTURuSW54WkJVbmc0ZHVOU1E1Ul9oQjBiWFRNbThIZkN0dHoyUTlDVmZld1dhMlBqek5NX3IyU245dHlkX3Q0YXBnYzFSYy1mUzdxQk1jNU9HT2cza2hfV2UyZXc?oc=5",
-      "pubDate": "Thu, 28 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Trump says he saw no decline in Biden after debate - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWGJ0cmJ5RF9OT21RMmQyVnhwdXZ0dEpyMzhEZDA2SzlpQWcxcGNJMHIxTEVOWk5Da1ltdm5GX2RBWm5uT0ZBM1BzQUJpV1pYWWhTSXBXSUhLMzJXRFRXcFVFQW5Ibkp0d1A0R0kwWFRMcDNwN1pxWUZTdnhNMll0WHdYNHprUVF1MmtKTzJzUFpOVmtnTlVQZ3JWV3czUVJTSGpEMzd3SDRCS2NvaGpRelZSaw?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Jill Biden's new memoir will offer her perspective on the decision to end Biden's 2024 reelection bid - PBS",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbmxXNDllM1JYQ0VXYnBULXM0TVprTjJxQU9JdmhhU0FKdkdLRzRNMHBXb3NQaWxNTmNCaUhmX1FMS0VGVXJ6ZzJON3k0Z0x2aUpINnNiTGotX2ZWa3NWMGFQbktFX0NHUHpVN0d3UGxtOVRIV1pNZkF4NmlIM0gzSFJ3TUl2bU1CVTZsSkNQdG5mZHJad3htbHFZaERjbDJzeDlWTUI3bWxNVWVmOTN3OExxTkZrdUlPdmRIOUxnZFpQRGwtSHlEbjYzbkZaTzZuczFB0gHYAUFVX3lxTFBPbVl0OW02MGxOSi1veGJfT054MTRYZVk2TkVYV3ptSUxZOWpKckhONjE0VDRZeUx4UE9DX2VodHlucjVJaEJiUV92ZnRNamo2YmlXZTc1TWZ5bDNfaHhwSjBicy12eUhyNFlkNkRZb2E1VzhKZXQxVnQzMThFeHh5aUlYRkl0RU1Pel9SWHJEbnRjUVNNR0RRbjdNcmtSd19Sd2NQMHc5V3d2VzhxdU1FbGUyYlVDSklYWTlWZXIwMEp4Y3UtVlJzb08wQWxldHRMYjZfem5paQ?oc=5",
-      "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "WATCH: Would-be second-term President Biden left searching for family on stage after Obama Center opening - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTDhtWlNyb3pxMFpwWUYtVWJ5X0d6M09FWUJTTVlZVGJQazNyMkNSc2JUU0p0ZWVHX0pabXIzSm5pMTFoaXl3a0NiaXRrZVVBSjdiYW9BXzlIbXdiRnBQMkhIN205YmxjeGViU2x4MklQWk1IclltU2cxWXFQX3hYM1NOR1NMZk5mYlZQdldxWUxrN21ORGZkRlh5c1Bjc3JnTm4wNGZjMF8tNGowNmhXZVpoYjluT0pwTVF2cG5R0gHDAUFVX3lxTE0zMkxrT2dpdDNqcFpjZVFIRDlSOVdPNnZuV3lGUEtaOWhDMThwN2FQRDc3YXRLQkxaNVlWc3hmc3JtNkxyOGdkNUZ2NjhzWXlnSTh2S2RsSmhKaHlmQ2ZjODNKZGJvOVp5QmVPZmx4bjlfLUtUeWc5VGlvazJqY3hPdnNCOFB4ekY2a3dIMVVwN2lKV2xlR3pXRndfQ2J4UHZScEJ4eERmcGxfdDRON0FRM1EyZ0xUSVc0eUd0RFBvTmNzRQ?oc=5",
-      "pubDate": "Fri, 19 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Jill Biden Defends Joe Biden’s Fitness, Tapper Says Memoir Leaves Out Key Details - Межа. Новини України.",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MQ2RrOXdFZVZ3V1FOdFJLTmtKQ2c3Q1Y3ZHBLVVdfQWJCbm42M01yYUNRbkxRRE5YWllMSDVzdWhubzlBeFFqdk81MXRYRnQxb2xfU0dYdkJISm1oNXNwWkk2dERjblU?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Biden, aides project optimism in cancer fight, but some close friends worry - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNkdKSTk5b3lEOVgxX2Q1dHg0dHRQRUF0Z0toemhMaHV5WDlYYXFpN190dU81Y2xWS3JvUmwzUDVmaGxWTzBRbHFJLW44UHNHQ1c0c2VoTWY2eWRUZXVaNlZ4dDd6MlVPSl9UaUVCWWkwOEIxV1c5OTBVRlpKUHlXeEJPN3ZUdw?oc=5",
-      "pubDate": "Mon, 23 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Ex-Kremlin Loyalist Ilya Remeslo Placed in Moscow Psychiatric Facility - The Moscow Times",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSkk5U0ZncXZSY1o3ajhSZnd0OTZKOGVZYUNGMXBhbEJRYk44UmtBTi16VWZUaXZqeDJxRnBlb29KYzN0Qkdxa1NVWjNvc1RiZnZuM09INC1kWW5Rck5jMzRiaTh2UElLTGRFbUxUZmRpRGR0dGoxaHgzNkRJMHBaenVtQ29BM0NyeFpGRGdTY1RTOEozTThEQ0pjLTZjSDQxb05mOTRhQzlBWkNzX0dkTW1aOFg5U1pzVnBJ?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Preparing for the Death of Putin - RAND",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeEMyYXE2MFlnUWFHYjhoRmFLNFEycENQcnFITW9ZZ1hHZ04zLXJCV3VCRDdxazVBUDdGaV9BYXRWTUZaVjhJNGg2R1lXZmQ5TVhUNERxLURsODdsaVpuMGZvbmN3ekdlUFh2dFhyWnNRdUlldFBIQ25iSG4yd2NhZ3FfSTBtLVdXM0E?oc=5",
-      "pubDate": "Mon, 06 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "Putin critic admitted to hospital 'hours after he turns against leader' - Metro.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaHNubFRXaWJmNGx1LWh6UngxME4ySEhzYV9xVy1kNUpJSnNrX2xPNnBURWVaTk5IcTRycUQ2YUR6eFBneldlekdvQy1xZWxLd21xbmpXRjRiWFRyQzZJRXpscXVrdzIyb2dacm5PVzJ1VzN2NkJTdGJqMS1DakUtUFV3T3FKSFNpNVJkMXVmXzBpOE4y0gGaAUFVX3lxTE1WT2pobFVuSExCWW1WZzk1YlZfTmdfbmNjRHlkNmxrWHlOdENscXVjVG5NZVUxLWV4WkE5XzVlYTlaYU5BRVkyNExBbHZOMVF0dlhReWdxbHcyY3NhYTk5empWemI4dmRZU08yY0J4Wl9GaEtVR09xYkFOclhCaWk5c3ZuMHVwLWtmejk3LUwzX2ptXzB0dGYyQmc?oc=5",
-      "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Putin invited to join US-led Gaza 'Board of Peace', Trump says - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zeTZNdU5yU3Yxa1d3TjlUWEZEUVZ0dXNZVUp4dkJpWEI2bWdHeGNFc25MM2kxazdTZ285Ry0zWm1TM1JHMVZ1SWgtaUZzRmZmTnNNRkJDaHNidw?oc=5",
-      "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "title": "The Many Deaths of Vladimir Putin - Center for European Policy Analysis (CEPA)",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lUzFGY0Fwc2wwTlB3SnFQQ0NNa1lzYVJxaVFzYzFRcGFDSUs0WDNWYWxWQlM1OVR3eHJ6Vi1LOVpocGsxTTFqUUdYZjZtMVBsa19QMFpXU3pZOGpVbHYyR0VoR0R5OUlGN284?oc=5",
-      "pubDate": "Mon, 06 Jun 2022 07:00:00 GMT"
-    },
-    {
-      "title": "The Modi-Putin Summit Is a Message to Trump - Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VcTBpRTJJZDJQa0xXTk43S3F0dG5BYUVMb1BNdnRHbXc5RkU2OTFVdDdZT0FjVXRhRWlKVl9iOFN1dGlLSlMwTy01NWZCZTR4SzZGU3Z4aFBLclVyZEx0alJ0Yw?oc=5",
-      "pubDate": "Fri, 05 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "Putin turns 70 with a prayer for his health amid war crisis - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNlM0UkpZb09QelhfN0dTMG9vdGFzT045SjRLN2ltRjRBdU1IZ0VxTFhxZEtTMXBtazU1M0pibDR5c3JZMEczSU5oenRsNllLWFBHcnhQWTh3Nlo4ejlhNnBTYkhBdDNPTGU0MW90UXNMNUZMUWtZdzBMVmw2anhBRHEyQ0UxbXE1VVZvZ2cwNERMZ19FbWFIenZmTDdYcWpwX2JoTg?oc=5",
-      "pubDate": "Fri, 07 Oct 2022 07:00:00 GMT"
-    },
-    {
-      "title": "Russia proposes running hospital in Gaza Strip as Phase II of peace deal raises Israeli concern - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MbTFxRnJISm5mQ2tkQjRLekVFSzNwLU1TVzdpM0dWWlFOajVjUms4Vl9hNjFxT0UzemN1clhvOWhhNmJpTDlSV1Z1NDVCdzltbWhvSGtKbkZFejJs?oc=5",
-      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Putin lays out his terms for ceasefire in Ukraine - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tVnZFZTk4MkU4UUdjVUpqRUZ6UWdDb1F1N3g4Q2xweDU4ZUltUk1YVmM3NDc3WVJieDJuSGdlMzdoWkxvZ2NKRXBOdWE1NW9NMmdrempiSERUdw?oc=5",
-      "pubDate": "Fri, 14 Jun 2024 07:00:00 GMT"
-    },
-    {
-      "title": "Vladimir Putin offers African countries Russia’s ‘total support’ - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIVWVjYjFELVc5M0JjV19ETklycjBHNmh2cWM4dU9FbDBxTVFBY2xRTHZrWTRWNlA5NGVPYlB5Yzlld2ZvSlU3cEJVbVhpTzJwUDY0SHZCMEpZUQ?oc=5",
-      "pubDate": "Sun, 10 Nov 2024 08:00:00 GMT"
-    },
-    {
-      "title": "Pyongyang rolls out the red carpet as Xi is welcomed with pomp and ceremony - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUFg2WkJWbndWdU5UWnppaXNnMjgwcHYtU1B4TGR5VVlWd19LSk5YcGRiX3VxYWRQODhBclZFQUtKbFJ5Zzc1ZS1fNXdsLTdjNkNGRlR3RmJ5YU9IcTJONzYzY2dlZmhibnhoeENPNVdrUnotOFdKcy00dEp3R3FIeWN4RVBSTk90Vlh1V3BVLTdZcGVmYmlNZWpWRFprYWo0b05QeTZ3NkZoX3BKaUNuVlQ4cXlfeGl1TUUwVWhPUGNlV29x0gHEAUFVX3lxTFBVc19aV21McE8zUEU2YndGWm9OTkJuQ2NadkdSWDdnNFQwa3BjbTRPd3JpcVR1WVBsOHhKNE8zNDN6VWJXZW53djVpaUpKdG5IMTFMNVFxZlROU21MeFJjbm1jWlBBSFhITzlVRzRWS3BxZUoya1hUTXZhWTZQZU5fazY2U04yWDZzN0lELW9GT0pWQmg1dlBUaEdVZGF6dHRBaXp5NlpPT2JQMDVHb3hHN1pmSnBCb3BGb1JiY3R6cm9IV1I?oc=5",
-      "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "AstraZeneca, Sanofi, Lilly, Pfizer CEOs meet with Xi Jinping amid US-China trade tensions - Fierce Pharma",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQUhlYU4xUUhMaFEtVTF0VFRCVDhQVGQxMXVNTFd3cEkxX01ndTVjbXdzUXMzclAzRjcwMGk3aExIUkItRTdiWGJ6b0hfTmhqMHEwdVpmbFVzbE8tdzhHaWhZZ01ScWhNTl8wMDZXVUM2QUZ4eldKLXJMMkV4enBXakVpdGhtZGhWQXkyRWJ0MUxvUmFBUlNnT0pIVDJfVTJjS3BzQV9XaXlWZU5mYUJ5b1dEM2Y4enlU?oc=5",
-      "pubDate": "Fri, 28 Mar 2025 07:00:00 GMT"
-    },
-    {
-      "title": "Chinese leader Xi Jinping extends his authoritarian rule with a historic third term - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wdXgwaDdKZF95eW1wN1JVeHp1OUs2RHhjXzJUMXZ0OGZuMFlfbUpzcU1HUUJmYzZoeW9TRGpFTlVkQ1QwY1RNSlJ2Y0VzaTNjd2hvWWczdzljU2tWVWdPeVBKemNrMWdYdC1sYXhxemx2RUFpdEk4LTZUXzg?oc=5",
-      "pubDate": "Sat, 22 Oct 2022 07:00:00 GMT"
-    },
-    {
-      "title": "Xi Jinping Is Suffering From Cerebral Aneurysm: Report - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVmgxWWNLWXVHMzBwM3VZWEdpYmhyaXRnME9OZ1pNY0JyYm9qcGREemhlSGxrcWEwVlVtU1I1SVk1ek8yX00wVEw0Zl9FVXBhNHJ6ekVvQS1aM2JBb0xoUHIyRWw2ZThRbTZ0VGw2WUc5endSS3NpcHVmaGxtTzJHVF9UckVOSzNXUTd4WlVCbUNUQlAxVGZ2Qg?oc=5",
-      "pubDate": "Tue, 10 May 2022 07:00:00 GMT"
-    },
-    {
-      "title": "China's Xi touts unity and development in surprise Tibet visit - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Fd0kxZV9mUVN6VENOcERnY2poRi1IaEVpbmI4NzljdmtQWFY5ZUJWbGZreFFMQ0lIcWtxbU5YUEJPelp4TkkxekRCT1FLWUNiS3dQakdfd092UQ?oc=5",
-      "pubDate": "Thu, 21 Aug 2025 07:00:00 GMT"
-    },
-    {
-      "title": "South Korea's spy agency says North Korean leader Kim Jong Un may have lost more than 40 pounds - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaWJkbzFSU2Q0NkdWNHB5cTRjN2FZVHBEbTNwbGQ2Y3dwTUl2TkdEaHFoTzVMMzd4RjZJRUtveG1mdmtpeUlLVjBfdlBVeXpqTUhPLVl5bzY3MG5VemtFSXA0U0pkZTZDV3JTR1JTTGNEOWdRcDZBWk9VUDd4ZDhrN2VyeTFNUHJiX2FaNmtoVVAxTFB1?oc=5",
-      "pubDate": "Thu, 08 Jul 2021 07:00:00 GMT"
-    },
-    {
-      "title": "Queen Camilla Lifts The Lid On King Charles' Bold Attitude After Cancer Diagnosis: 'I Am Going To Cope With It' - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdEE2SFNPZFVPOVJVbDBlTms2c2F1aFRfMkdJeFlSbVhVd0g4OF9hUGN6TGtSak5ZdmltcTVHRnhVREFNQ1JTTGtqalJSUXdCUDBIOElHY0xGckRpQmN0NmlFZURQOTB6MXlfbFRJUGJ2OThKVmVZMV9hS0NLN3dJOWYyV1lUejd2TS1MZ3Z5cjhvVDRXQWtzYnIySzVLMzg?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 19:33:44 GMT"
-    },
-    {
-      "title": "Camilla Shares Sobering Update on Charles’ Cancer After Report of His ‘Death Gift’ for Her—’I Am Going to Cope With It’ - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzBlR3ZJbzlLUHkyVUpDR2oyNXU5b1ZRUzZKWE1qMHZTdGZmVFpoTm9MeGNsQjFKcEhQVThyaUN1UWpmWmVua25YTHFTOUlZZXM5ZW9mWWIxVGZaRDZwbWhlSTNuSWYyX1lWWGdiQTdIQXpQdHRKSHJzN2tlYjdocW1ORzFTVXNvNVIzQy14bXNGZl83eVFYdnRwaVFzMHdOSEpZYWxVeDBPQUpV?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 16:21:45 GMT"
-    },
-    {
-      "title": "Harry and Meghan’s Break With Britain and Planned Return: a Timeline - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUUlPcEUwUUtOYmxGNXN5LVBwakV3Rzk5ODZoX3VUZ3otU1hPZGxOWnJsSVFQX19aNE1tb3ZyaGdvLU5qMXpHMThhcThkVTdOMkFQRlRZbHZVTGd1bzBoMHJPTHIwSVp2OHY4M2x5dlg1c0Z2a3FtM2tzdFBtY0tQem1kMmJjTncwcGtTaA?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 01:40:34 GMT"
-    },
-    {
-      "title": "Iran’s New Supreme Leader Issues a Statement but Remains Unseen - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHdLc0xiaEdPb2RaZ1lZNTBQaGFETlhOXzJmaEU1VkFNeTV6bWREcXpDVTh6a3pURlBEVV8zUVE2X2FLQUFwVmJZV2Z5WGQ5MnM1TU4zVXI5ZHgyTExxRjFGeUZaV3hzckZBU05JMUlaOVJxcVpNWDJNUll1QXBaWGxRZHJRWFNY?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Suns coach addresses free agent's future, multiple Saints set for surgery - afl.com.au",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQY29FaWtNYWt1QzFqeTF3WTlXdm9kemlwWGt1a1VkbHRiYWtpRnoxMTBYVk1YWG9OTzhCMWZ3STVsYmU3MGxKaS1ocGlHWmlHX2QzdWpEajdmdU9SbWZvMW56VEV2Sk5TVUh6RDRHUGxjZTFHT2JQb0hDeUtuSWhJeERaZW9lMTN1MUF6MFZwNGd5MnhGSERrSVl0RjIzb3lRT2g4RmJOSjNvWWhJU0g3RG5kWV8wbHQzdnZfcjQzamxCZi10RjFWRmkzN3FpQ2F6Mkh3SG9BaE0zWUExQW93ekxrOThsTWs?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 13:49:00 GMT"
-    },
-    {
-      "title": "King hospitalized in Spain, royal family confirms - The News International",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMU9ZblhHWEs5TXhEUWp1UmRZR2ZIV0JaLXFCeEtBLThWMDlQQVl3dElhbms3cDJxdEZyTk00QWxwUFpaWWpUR29rcnVtczMzMk1udndNa1YzZlVOUDVBc0ZyS3FBMENuQjY2MUlkVXRRSGpMeVdCOU8zMy10TVp3a0JaWTJpbXJwam9jU21wcFZ0WTVD0gGQAUFVX3lxTE5YdkxnMlp4dnNrNWREaXh4cDRNLUswaDV0M1V3aDNaZUppSzJqeE1JVGdrSkxmSmtDdjNUVjJVWlNuX28tVWF1NWlrSFNWZ0psakVHOWVmRzhZUWhEQnd2cUhZbHM2VXFqUmZZNms5RkNDeTVlcWNFalM5N1JNdDdBSzJMUE9LeTVQTE1HdWZ3Mw?oc=5",
-      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Trump administration demands hospitals share emergency room records - CNN",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3Mjk5RldnSXBXZ2RiOG93ekZyZ3NvMU1xN0owZ3RIcG43Mzl5X2ZOVGNFRDJLQ3YzZldySE5VNHZ6TmFhRHgxVHh4WDhpZFBzNW1XZlcyX1hpc05wLUlCOGtvSG1VTC1ub1NiWkc3aC1Qb00?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Trump Ignites Health Concerns With Baffling Medical Rant - The Daily Beast",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMHRSSkJFYmxrMkZzTWRRS3plZzhIbVgxMUhsOEtfcUt4ZHQ0RjhXZjVIdEw5QlRsaTNSRHdBbHA0NnZyMWNsVDFzeVlTMzgwcWZiY2tweDlua1JUYk9KLUgxczRaeXZjVWk4RVNVYkVBQXZFQ3NIa3hqOHFSMVRZc1Q0bG5FY3I0YlZJektyaTA?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Trump wraps up 3-hour medical visit to Walter Reed and declares ‘Everything checked out PERFECTLY’ - WIVB News 4",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcHhWUzNvdDBEbUZZQmFld1VPTWYtZENOWVRvd3U3bjJlM2o3cWZMNGw1bzlVOGotNXRjaFFqdkNtOTBBSlJ3SDZLR2xRcjl0aVlQT2d4d0VLXzYwSDM5OXgwVkFWNnU4WlNva0ppUkt0NFMxM0JzWG5aWTZIZDN4c290VnlKbDZQRVYzdlh5d0gzNWNSRnYyZ2NGb1Z1TnNtang5Q1gxSERSOTBJb1h3eXVJU3lSd9IBuwFBVV95cUxNdWpQTHB6Wm1VSGstSzFTVC0xQTJHSFRUTktkczRhdGZtZU1fcHB0dU9qd1cyNURUMTJWa0tHdklILXBmRUtiTzVwWEp2d1RTNEp4UjFLTld0SFBWcHY3ZTdtOU5HM1hjbUpTbk1NRlhva3lSMWpjRElKc1VnS3hKRXE0Q0xNcERHM1VrekZhMmdTQzlpTHpielpWbDRLckZDOFVmVDNFWktkTFRHNHhtY2RDRUV1MWxzQTZr?oc=5",
-      "pubDate": "Tue, 26 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Donald Trump Returns to Hospital for Third Time in 13 Months as Health Concerns Grow - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQjFPamhwbUhnVHJXR2JMS0FueVJiMWpqZk5nNUE2XzRxWnZ6RG5GLUoyLXp3TVp2amNadXN4TVl4QUg4Y3h3WHp1Z2xvaHpDWnNwOThnUkFLWDJQTjAzZVBzbzRSZXZrcUFYRjV0QnRvRHhJQW52RHFscTN4d0g2aWxXUTZQTU91Z2FlTExhQzJwTTlTY2dtZm9aYw?oc=5",
-      "pubDate": "Mon, 25 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Author Claims Trump Is Hiding Health Details From His Aides - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQnFiNHhJVzVGWGZTUkp0TkZDZUJCY25GbTlwV0E3OGNKWkd0cGUyZFlYSFRLNExJQzVxdTdtcTdxSkdESWdJLXAyWjlndGhNMlVZZlpzM0tJNmNSUGk5ZEx6bFFTVl9DdkdJalhoR0tGNHBuRlk4UWxiY05xVHVPd0ZzUHlpSTluWXhsMXVWV0tkdTdOSlZqaA?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "White House releases Trump's physical results, says he's in 'excellent health' but almost obese - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM0NlX0dqWnJwYVF2YkQyRE1wSUNCbGpSZGVkb0hja0VLaXU4QU5KMS04VmVLcHdTQzgzYjRVcm5FeTRENkF3NU5FeGRfSkZndzJtZnRUUHN4Tk1MUE5CS0xFY1V2b3dwZDdYV3JHbEhXUUlQVU9fUTlWbk5xanhVTllqdHJ1Qi1QWnVCbVlRN2YtejF4UmhSWmFjbVV3UzE0NmxUSlhsemhiYzA?oc=5",
-      "pubDate": "Sat, 30 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Vlad the inhaler: Putin coughing fit shown in leaked video - The Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVDdOd1NpdFc1RGc5VWVNYmZrVHdlc1lRdXVlalZGZU1XS2pLTmJWckNjWHVHOTI3NTZuVEwzTGhpaFI0TXFld0ljcmxsaW50Z1UzNE1VWjd6U2x1RXBGVGxGRTB2eGFkNjdmY09qSng1dXMtZ3pRY3FJZnplQ0twXzFDZGdPTF94bkNuQnBmWDM?oc=5",
-      "pubDate": "Sun, 08 Mar 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Exclusive: US says ‘significant deterioration’ in China’s treatment of detained American academic - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdko2VWE3QXdVVmFJcGZqY1d4QTR2dUYxb3pna3JmeElBWEVNX0FmNWJmeEhKUllRRXo1N0YtRlJSVUFvcjNWNG1YSkg1TS1PVVV3YnBXZE5wTlJrRFV6LXo0Z3dLQ1hoRVdjaDBiWjQtTlcybHFqVmY2cHNrOC01S0NBNG9sWlBfTWc?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 15:03:00 GMT"
-    },
-    {
-      "title": "U.S. and China pledge to stabilize ties after Blinken meets Xi - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1J6YjRnWVJlZWZMRHNJbGRNRS02RHh1d3hpSFlGNV90b0ZKU2lBLWxNVkptakt0a2pqTFhWWlBia2dZZzEyMElkSElkRHpEY3Vyd0Q0SFNkM0ItMzgwTDJvcGpueG9DaHpSa25GQnI4OW04dHZPQ3Z3LWpzb3lwdXVkUkM?oc=5",
-      "pubDate": "Mon, 19 Jun 2023 07:00:00 GMT"
-    },
-    {
-      "title": "Xi Jinping praises Labour’s economic policy as Keir Starmer discusses human rights concerns - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS241Ymd4WDNSNXY3X2hwWEdfdk9oeWJRUnFOSDZoRzdYYVRxYnl6MnR2MGdKNmFIMkxFRWJBWE9nalp0ZTJidWRmQnlueTRlemphQVc4Y1hXRXNqY0RUejBCVjVPOEhRTjgtaDQ2NGN1cG1oSk00UE45aTlVYW55ckdnVkhUWnRxd1ZwVXZuVk5MZndXcE93aUVhQjl4ZjgzSW82bC1ZTmpsNS1TdGR5amdzX19Telk?oc=5",
-      "pubDate": "Mon, 18 Nov 2024 08:00:00 GMT"
-    },
-    {
-      "title": "North Korea declares victory over Covid, reveals leader Kim Jong Un suffered fever - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObTZJeXNNWmx6dWdmQl9vbGdzMUF1ajUzbVl0Wkxtb1JSOGlKTWhUTnJhMWh4aThxZXNlVkJ0Ukp0UkJGREhySVlnMUVoS1JHNjZzbkNISi1nbnQzUVNXWXVuTk5rVEJkTzFDVExxdXphWmUxWEdseldSUmhjRUIwV2I3SWxtNVR5TmRTMDBLOXBVSEFLa1FFRjlZOEhOcE85MW11Q25KajY4Z9IBrwFBVV95cUxQeUx2bkdSblhiVHhsajNkOVdtbGQzenFOcWl1Y3d4c1VCVFdMNkZjSFBFSzRpNVdMbzA4amRFRG1VLU5jbXd2MmoyMDVBdm9mOFhqN2pDN2dJaE81LTE5Ukp4eDVEcXMyX0RCMk1UZWxxMFdZWDVrSFFCV3BGYVZQeEJqV3U0eFBLWTkxM2FjTWZXQWFXSkhqZ204QmJTM2NRZVJzekRyMzRSZjl6S0Y4?oc=5",
-      "pubDate": "Wed, 10 Aug 2022 07:00:00 GMT"
-    },
-    {
-      "title": "Kim Jong Un says he lost control of top hospital project, leading to delays - NK News",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1RbUFSM0hRZ2h2NlhBQ0dOcWI3Rmw3alFRR25zWTd6eFh4MnAwV3BFWDNJWWdCc1JxQkp0amg1WFFyVmM2STNJ?oc=5",
-      "pubDate": "Wed, 24 Sep 2025 07:00:00 GMT"
-    },
-    {
-      "title": "Kim Jong-un visits hospital building site after Trump departs peninsula - The Korea Herald",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2NHFkZi1jUEdvcmZobTZ5OEZQQmlBOEJTemJRYkV0SFlyMkZRRWxnMWJlaVBGMTBhY1Y5TGZJOU5HSnBQaEZFRjI1R1pFMzMxY3U0YVR1VQ?oc=5",
-      "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "Kim Jong Un blames poor hospital construction on use of unskilled military labor - NK News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3RKTkNYMmhtZm41WXZncnptSndkbmhXdzZoaWlSZE55ZTJfbWlXQ2VkX3daZUZzM0pUSjhJWS1TQ1Zwa05lMFFiUEtlRWVmdWFNaHhuYUlTOE5aeDVZTDZ0Z2p4SS14dzNrMjJLU210WFBCcHVrY1NRM1loS05VZFFnMHJyck83TGdHeWtqMjluMTBEUzRLNjR1dW1FU2N1VHFoeFNES1d6WlNRMTZGcnVn?oc=5",
-      "pubDate": "Tue, 10 Jun 2025 07:00:00 GMT"
-    },
-    {
-      "title": "Who is Kim Yo Jong? Kim Jong Un's brutal sister eyeing North Korea's throne - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYi1wS2ZaSnFNSzNZbGxpQWRrU284MTQydFV5VUFncy10WTZ4Q0lvMGNpQ2N5ZXJnSW9wUXgzTlJFRm9ReUZPUGV4QTZKVV9QT3JPZWxvLVNTY3ZMbmpUbURNNXdDdzdaVzZOOGpBQXNaa3lURk83cWp5NGpmSFFKM0JfcUl2SFh2dW5DNXJ2TnFkLWZpY3VZZTdtMFlpaVR5MXc3djRsUkxzSUdzQ2VRTnd6aGJpWmRyNG1saktoTWc1bjM5YkhYdWU4NG1jWDV5bzNuMmt6MGxka0hfSVE2VG8zbE_SAeoBQVVfeXFMT3I5cTFyZXZjSWNXRl9WNmdsTkJOb0pLTld6UlJhbzh2UzZNNlBrU191dWVOalYyc2FnS25FdGN6UjgtalBCV25tSzFRQnY2a05kakFUR3BoUFI0dllPTnFGcmt1NWx5SzhHUFg1RzBaYnQ5SXhsYWp1TXpGNmNyOVNiZ0h5ZV9HT2t2Vll0c1JDN2FZX1M3bWJWcmFDUGp2XzZBZ0xBT1RRNGxGQnhIU0lLdXlubzFfSEtKbHd4UEp4VHgwTF9Bdmh0WDc1YXRGaWpiSldPU3czeG04VVFTWnp3NmtKTDlLUDNB?oc=5",
-      "pubDate": "Mon, 16 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Shocking timing of King Charles learning about Prince Harry and Meghan Markle’s UK return exposed - Page Six",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVWN1UlV1aHFPT2hPeXJYTUg0bzRDOTFMcjZ4UmZIUGZCZjZJSGRBTklMWThHb3VoXzhoVDJYRGZEMFVHRUJ5UW9wQzVibHpZREZTN1RtaGpRNzcweG85SFFaMGE1NTg4NlNTZXNfT0RwRlFHbmFCZWUxMXF5M1UyWF9EeEFJdFZpazJLZWpuX2dZSVVJNWY0VDM0TFlya3Zua19Na0cwbmxZaFdYV1FKVVh3UmU?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 12:49:00 GMT"
-    },
-    {
-      "title": "Queen Camilla Breaks Silence on King Charles Cancer: 12% More Men Sought Help - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPemFSdU94TFZIWElpeF9yQkVGREZGNmN2SUt5N1UxODhBa2xFV0JVLTFRb2Ffa2ZJY3lUWGhKbkd3X2QyaGZ1VHprMDRiTmZVTTJRVmRTS1RXYWd6bUdoR2xFNGRvUTN6TjlfUWNWOWM4Z0NaakM0VjMwV3RCY2dDYVg0ZzBWVHdGZUpoUkU5MTVNanRxcVFxSWZQUVNDWUFnOUEzT3RKQWlfMGxqa0pSZVlFQ3BiMkZOMDNFVXZNQnJlTk1uUVE?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 19:45:04 GMT"
-    },
-    {
-      "title": "King Charles Still Carries This Deep “Regret” About Princess Diana, According to Friends - instyle.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzJmM1RTQ1RCY3JYcWh1UnFHbUJuX3ZIT3Y3dkEzMEJzUFd6ZHdyaFZnNWg1cEVpNFprQlgwZ0RqdlRMUFN6aHpBaXViRnhIQWptMVJGMUFRakx4VnNSRnBtd2ZScjA2VmFFRnQtNmRRUWNKTHFOZThvV1JFbnAtbDZmejlpVUoxZ1MzbDlBRVQ1QQ?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "The encounter with a wounded soldier that moved Netanyahu - Israel National News",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SVFNoemZpc29sSDBSQ19LVTY2ZWM1VFB0NTFycGEwYzNjUlROcVFTTnNNYzNLRUs1dTd4NUV5NVlUS3dfaG5DT1JYUF9VVUpSOW9OS0JnQW9odw?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 20:00:21 GMT"
-    },
-    {
-      "title": "Iran’s new supreme leader is severely wounded and delegating responsibility to army generals, says report - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSmI1QlJua0xkUTJhbFVoMGY3UUVCZXh0TXBrUHdvTWJvU1o0WGFsWkdoYVZGN2lLaXFrS2VzdWVvOWxPemtSTzNMUDFFTVI4eUlvRlFCdjB5NktUbXoteHBLaW5sS1JFY19sRDJzQ2lRbnB3LXNHVG51TjZPSFVmRll0OWcwR0x1aTkzMHUxUTNDUFk1NjJOZW5BNTM2andBS2ZWa1kxVklfY1M1ZHk5R21aaktYNTVKYmZwOA?oc=5",
-      "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Former Brazilian president Jair Bolsonaro moved out of intensive care after medical condition improves - Sky News",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT21YTFEzczBNczN3anFkTnMzN19wOXlZSnBrRy1BU21YVERPR2drUFhPempZcE94R2Iwd2RhOEpieGQxSS1TY3hXbVBHdWo2Zmhna01UaDhVZ084eVJHQURVQldEZjZVYlU0MkhoRzZCVzl0eTdCejlZQ1Y5LUEzUE9XdVgta0ZoT3Rac2NzLU5Ta2JRc0pPZzdXcnZqVm45NVhwX1pJTG9MeFN2YUtGb0VDRkFCZ0ZTWi1wZk54d0RvaGlyQmNXSndRdHdVUUVmUHE2Yw?oc=5",
-      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "ACS President Anton N. Sidawy, MD, MPH, FACS - The American College of Surgeons",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0liajFTNExHQjRpZHZsbF9jYTQtdkVxRXlNeURPcTNmcDNJRTQ3VnFhN1lzQmlSeW5zVDJXTzVzejRLZGo2OVMxY003cHlXLTQwc2xydUhRalZ3Ujc5Q3hod2RBUHVjeHcxTXRCRTExZFROMEdGOUlZUzUyRXlqTjBzVm9SNnNPZEhyNkYtampTbmUxUUp1elJMdjFfcFlaWERPQy11TmI1dUpPSFRULTQxMVRrejg?oc=5",
-      "pubDate": "Wed, 08 Oct 2025 16:08:15 GMT"
-    },
-    {
-      "title": "Brazil's former President Bolsonaro undergoes new surgery to treat hiccups - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYmdBREFyWHExaFJqMmM1UU1COXFVdGcwY19MUzVFLWpRZW5Hd1ZOb2RESU00MEdGWXBqZEtlSmNmc1pzLXFLMF8zQUY0RXpMRlNHYllyZm92NnhCNjRVWnBacGtqMHhPRDV2TU9qNWZtVVBTNTRsZ2JxeGF5ME5aeXpSOGlKQTJJVnowRG9pNDE1WnhfbEFodGFqY3F6Q1ZhbFUzZmRUVV9vSEY1Z1owN1F4MnYxc1BhOXMyN1J3?oc=5",
-      "pubDate": "Mon, 29 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "Brazil’s jailed ex-President Bolsonaro undergoes ‘successful’ surgery - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzU5RUFEZ2Z5eFZuYVo5XzdlS0xReDNKV2NHRmJMRlA1LU5PSWp1WXEzYWJpREtmYU9XVFZ0MmxWVGZkbmtvTXlxZVhMaTU0bFdfSm4zWkZFRmpwSHhkXy1CdDlLd0N2NnNPZmNhdTNOUVFJR05NXzFGWDh0Ml90RjhOYWlyczVQZ2YwbTJlenVVdWtfa21LbTRWVHlJV2hzbnNkX0FsclhBMkkx0gGyAUFVX3lxTFBaWXYtT0txd0VGMzJXUW5DSHdpcFV3Wk1hSjgzNUxURGktMXZZdlJKVHR0R1ZpYkRaTG85M0JYeldpVmlWTHd0emRGQk1KN2YwTzJsalNmLW1yRmxpT3JFWlpXRVZFZ25nQlB2RG1GRzA4UUhoWkpONEpwaEFxY3Bzb3REWjlTUk1QZERJM2JQR2xkelZrYWlDdVN5SkJDNDdvZE82cUZlMWsyWm9ZS2V4bUE?oc=5",
-      "pubDate": "Thu, 25 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "Bills President Brandon Beane: QB Josh Allen May Need Foot Surgery - FOX Sports",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6VFF6ZUoycmNmZUh6VmJBQmZLdXZobk53MGtWQ3AtaTRMRXJsUXlQWUtQdWVYQ0hKajhMalE3YlNIdng4aVJHVUQ3RURmV203NjdneHk3VFBsMUlwR3ZvU0RWSm80blVjTFZnZkNLeEJOSDVMNTNYWHNR0gF6QVVfeXFMT3Etc3pvQ19UNkg3ZnFwV05iM1hRMDlkejl3dmwzNFNqODZra0ZZQkszQjdJcm9zdW1UcHhMSHQzb2N4b242UXowRlk4U3ZXd05DTE9qSE82d2xTWEtDSjJVUEtYNmt1aDdsOGRNakVVZlExaWQwSXpPN1E?oc=5",
-      "pubDate": "Thu, 22 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Dr. Arash Momeni Honored and Elected Vice President at German Plastic Surgery Meeting - Stanford Medicine",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWVVOb3VXS3FCRUw4dGVxVWNGZHVEckpFWThiTlctY2pfOS1BWE5xQzRhSVJpVFBQU2xXZTlWTGFFd0t2N3pnTFZNSXBmbEI4MzVYZTMyS2gxOUU1RTUzY2JVeUtEWkxzSjl4NnhHVVZBMVNsTEZIVlkzRmMwT2I5N0NrNWkyZGpnWFJQNGlNdVo0am1IdjN6ZFNVV29GNlMxUC1Ec0xBQmNEZHBQTkR2aC1DaVA2R3gxVWxOY2x0RVJXMWs3eHRlQQ?oc=5",
-      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "Dr. Timothy Eberlein Is ACS President-Elect - The American College of Surgeons",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTlg5a0hhTURDWjVTcDg4ZF9NRkw1dnF6QnJmNGRzY0Vqdml5TEtPSzlmV0xxQ1A4T3FyOXN1bnF1UV9uTWJFWnAyQVQ4OEhVVHNkallzN01EM2Zpai1yMVVrT09sNzgxYldUalFhNkJ6NkZwQUR1MmFTbkVUbXRVd0tRQmY3NmlOQ2xuejY2N3g3WkhDY3FmdTNDS3dwakhaVmNUY0NRM1lNSVRPaV9tRHNrVVJ0cWMxTjNvM2VhVS13azY2cDNwNENoSDNSNzVlcGpEUA?oc=5",
-      "pubDate": "Wed, 08 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "Kai Trump reveals surgery to address wrist injury after recent golf competition - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM00yWGtkYzhFT1VmM1VCY2Y5SVEweF9LU2N3b0FPUFUtaXlSVzJVV2I1NEt1Q292UkNyQ1Q5OTBiYVhBU0ZxVXdmbTlGYkxFdHlVbWZwRzFwZC1MUEJTbmFKUWJfU3pYTXVOeWV2M3VpQU5yaTBqVTZzU0xlZUFRckVuaGlGdmV3Qmh4M1FCRGVFWUQwLVRqTVkzSkJhSnNra1F1ajFJMzZ6SDjSAbABQVVfeXFMT0NnSnJpSjNSZXFsZEpHSmZjQWp4Tlo4d194WjVBcFNObjYxYjl6Szl3WlJGOHBMRU1yRE15aGxocnJaci1EWWhKTzlMcUhYVVlQalR2ZFgxajR3dUZYRkJDSVdRcEZlOTE1ZkhCaFo4c2d5ZnFOSHpWeldBMThlZXVpd2oyaUNTUzJBNlpyUVQzczA2ekhEbDViRzRGSVUzUzc3Ymh5X2h0bTV1U2hubGo?oc=5",
-      "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "title": "A Miracle Times Two: $5M Donation Arrives Days After Livingstone President’s Successful Kidney Transplant Surgery - Livingstone College",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRXhuNEJ6V0k4UXlmRGdHWXpFMHlQTmQ3MzdkRk01b2VTZkMwUW00VjdEVFl5aHN4b2hhQVJHcDh1eVFEVjFjRVltOGpWUGY2aGhlbGdqRWVBOE1GOGVsd0ctRjFxeWY5ejU1YnBPWUU2VEYyS0YyaDJpOHl3TG5DYTRVUFFfUEFWaFE?oc=5",
-      "pubDate": "Tue, 02 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "President Jeffrey R. Holland hospitalized with 'ongoing health issue' - KSL News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNkdBZDNCV1hqZXdOLUFUVkVPMjRtUGFqSi1qZ0NpY1UzZUpMdmZCTjduYzlkRDZJYW8wX0RsVnVQOWVoZkZUYi1pc2VFaGpqZjBXdjJRSmxLN18yOWdXb1FoVDlrODdnOGhvck94LS1WQ216Y1hGWlRGbUhMRVU2WkRuaEJXSnJKbWZnUTNIcFhoc1JhZEFZVzVuRHVxM0tZUjN5Mg?oc=5",
-      "pubDate": "Wed, 24 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "BD Names Rian Seger President of BD Surgery - BD Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SNGpvYkdpVk03MENMLVh3Tkdtc0c0LTZIRVZaMmRfNHNTdmlYVk9yOUZLRG5JWW1NVzdoYVUxdi1qYzhFVkhBa0FqLXRBdXNaTnliMGZDWXZCTHY2d2ExNV82SWVZZFFvdWhPa2xXbVFhc1g3MGduWk8yOHdJWUU?oc=5",
-      "pubDate": "Mon, 11 Mar 2024 07:00:00 GMT"
-    },
-    {
-      "title": "Brazilian ex-President Jair Bolsonaro undergoes double hernia surgery - WKMG",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbFhXQ2hDS2U2UFZXWDR6MkhwdzhIZ0pzVVNOWHVhRElON1NodmZCSnJ6cno0SmNoZk1Od3V2MzlHRGdhWGczRVFNdTF1LUZHdFZrYmQxZUhacWk3TDVMMXBuZWN2clZPeVVNS3BVdFB0NVowZlptenpFR2NuM1laWmstZVZqZnV3MG8wbGxCQ3BPUGNfM1ZhZF9lOTh4NXloQjVwV0dxYnZ6eXhuRjQtX2JsSWxGQTBFMDdmb2t3?oc=5",
-      "pubDate": "Thu, 25 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "Malaysia’s prime minister discharged from hospital after surgery - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWndsdElSdkNGUEVta0FGSVpPTlF2LVRYOEVNZ1MyVkNZbG1wdm1ncDlpY1J2cHBGTnhsR2toVFdXOGJMalIxMVNDTU43eENhaDRsVVc2c2M2N0JkcklTU0lNZmtlXzFYYVp6QlcyNFdZSk5FSjg5NFlpUXJiWmh6d3F5U0VDemxhenduNmRJLVV5YlBHNHBHWkYxQjVibXJKVDJKSFAyUUI0S1Y5UmJj?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 04:23:51 GMT"
-    },
-    {
-      "title": "Haiti’s new prime minister hospitalized days after being selected to lead country - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbEI5bGZUcGM0Y0pTc1BlbGdkbXBtTFFsSHI3ZmQxQUlIaTU0WlhkMHJYWUtCbTFqNmtMd1BRZkMyOExTUGhPNmpySHNyWU1nblNXWHA5NWtNNHFqdEJQZ3oxVGo5TlZzaDlxdzZuUW5tOEY1TVE4MDJ2VFBPaTNHOW5JbjlWYnBnQ3ZZb2E5c0kxWlpuTkd6Rm1YaldjQjI3elJoa3duTFJ5QQ?oc=5",
-      "pubDate": "Sat, 08 Jun 2024 07:00:00 GMT"
-    },
-    {
-      "title": "Pedestrian hospitalized after being struck on King Street, Alexandria police investigating - DC News Now",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMlhIdGdCUDc5a29aOFpmYzRBclp3LVVkVnBidzdFN1RiSEhVRGk4SUNoWTF1ZUJManh3TmNoSXFEUWhKVENCOEp2UUNaODFxdjEwbzJ1anQyaG5lQS1RbmgzLUNxUXh0MDB4ZWduTDhCQ08wdXYtbTdELU5FNTVpN29feEF6VDcza0VIdHNMMmJPSWlKTWJiRXJ2UXpYWFlpc3hSQkhrYWtDYlk5eC1manVlRmFJVzM1Q3RpcS1xcS1DTzZqT3Rr0gHMAUFVX3lxTFBtR1gxVE9JYUlEOE1uR1lIdy1IakJvX3JqeTRmRndPV1V4N284ZGdCRHhfUlRvM1lWVkNRdjkwOTlvQU5ha0RadWpld3dFb2htQ2IyVFBicGVMWVNlcEFNa3Zub3NaaElic1BjZEsxNGZDQ0NLaXFscWpuRTB0YXg0RHpsLU96ZVdSNVI0dm5Qam9maWRYRzkwQ2xsdzFFMHZJbWhKeU14SUFvWk9nNGhBa0Y3SjlrcGVzbWl2NkRWY0VzQVVOc0pJMk80Uw?oc=5",
-      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Norway’s King Harald hospitalized in Spain - Arab News PK",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HS195S3hBejhKMjlKdUNZc2Q0cWNZRlVNay10Z1RDOVlVbFJYVXdPODk0NWFtMHExT1pJaTNwTXZDeWdBWG1JUkl2aTFpMmNoaDlNQg?oc=5",
-      "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "SON DAKİKA... Beştepe'de kritik zirve! Cumhurbaşkanı Erdoğan, Bahçeli'yi kabul etti - CNN Türk",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV195LWkwQjdqY21QS2Z6RWt4bXVwdFJfbXpKRXRWTS12TjVLME11N3g3TjNfX3Y2VzlsZ2hteGxQSXh5SWxmeno1WkdSV2hXb3VHeGktaGhXSVJjWVc3eHBxbV9PQ3VteFczUEtmMTFKc1kyeEFDLWg2SnpoUHNQV1Q3ajN6NmFwdU5UMzBPYmNrT3I5bzNRZm81SkFQVGZVMEhFLXBhQ1ZZYWpMeE5pd2gwQUFpeDVDOU1uN2pYbw?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "SPD'den Merz'e NATO zirvesi öncesinde kritik Türkiye çağrısı - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZnNTM2diakUtMkpTRE9HaUxSQzVDaUVZUENmbnRfWHlZVUs0bFNoT0hpdnFpZ1lxU1I4N3VlaWlLb3BEMWZJWXBiY3NxZS1yUXdxVXVyWG9KbDRIZmIybU12VFRiSjBmZUExclRIRkVYWkdQRGk0OW5PLWZZYzdLQTk5SjJXaFA4SHBCcGROZS1oRDdSUmRNdFpjRFdfS1ZBUGpwRWZkN1NESXc3d2hQT05IWU5scUhtdVhWUUdB0gG-AUFVX3lxTE8tby00aWprRW4tMW9rM1RBRlUzZUEwSXdVeHhhZkZtS1BOQVBsYXNSdzVMYUpmenV3YzQzOXJJZ0k1anVaVmcwR29iTnRRTTI4SnV4b0QtWmdjRlIwTmF0MjQ4bFJFT1hVT0ZPSmlsakRQbjJEbkloVFlDSVB6NFFQMmJuZjR5TTVZeUFvYUdjVDdCQTd1SmlwRE11eUR1NDhSUUVWT20wN1dtQWFIZnp4SUs3V0FRX3V1YXVjSGc?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "NATO Zirvesi sonrası Miçotakis’ten Cumhurbaşkanı Erdoğan’a kritik mesaj - Hürriyet",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDlTak83WUdQdHNacG5aVU5NZ0RRYTNSdnJTRkp5VE5KTzJCZFhjY1RHWXJjakJrTTNQTnl0WkxySGZLeGlBX0dtRnZDVllPa2FBS1J6ZFRZbzJZb1lCXzZySXkzTS1aWjhiLWxVMVR3LWVDdDdiQU1udnZncFZPYU9PYW5aV2tPaGREU2EySFhZaURCamMyYzJpMDcyWVR4dE9nZ0p6Y281WW5jSnJzUF9n?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan, annesinin adını taşıyan hastanenin açılışına katıldı - Medyascope",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdi1vckh1bHRsNnFveERHQXNCQlMtSkEtdGNic2xqeFVab295NkpGZVZGSTVDejFVSXNEcWNMZUFpOEtGMWQ0Yk1sQTRxZzU0Ti1WdV9SUFR2N2lpVDdNX0ZtYjYtdC02ME5jMkdYek82bVRNWW4tbkxsVUdLbVBkbFdqVjMwQ1dHTDFXdkEybFVPaUtyUmFYN1Nn?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "AKP kulisleri: Mutlak butlan kararının Erdoğan'a bağlanmasından rahatsızlık duyuluyor - T24",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLXFEbGliUVhrTjlxbTNjVUxPdFcyZlNPbm5JemxFbEFXU1ZYOF8xWWIyNndqcVc3MGJFSkg1LWxyTElETXdOWDJ1VmpxZml1ZXlXdWkzX3JaX1h2SVRmVWpPMlVzN2MtSHlHVnJDZVJtRE1LeTNfaElMUFppM1BWYU1KVTFBR1JTbzd4eUFkTUE5NGh3WC1ySnlMY0JOemJYd0RDcGt3QkxJbDBaUnd3djNueHBTVFBtTzRR?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "AK Parti'nin acı günü! Erdoğan'dan taziye mesajı - Ülke TV",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FSWpvVm42S1JodGU1NEVIRi00UmFMc3BVT0pfSm5JR1FtaXFwVW0wSVdFaVpLalcwYVdURUp4bkFWbjFuOUlLUUtUMW9fMExZS2xpemFYQVE4c2FRUlFHQ2w1SHM4OFFKUmphNGZIclJfN2lPU2k00gF8QVVfeXFMTkFra2NZVlZfQkdqNER6WGFTOXU2YUFmbTFuaWRmZ1V6eVpSS0pTbFJaakdhVWNsazJMVzQ0aHRpWHBzZUR2X0Npb185R3RlNDlTUVhWUWpzQ1dGYmNjQzJnLVNaZ3p1RlVwSGFlMktnOUhlcWNwUDR6Q29QcA?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 10:26:00 GMT"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan: Siyonist katiller her türlü hukuku ayaklar altına alarak kan dökmeye devam ediyor - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUXMyd1BJb2RWTGoxV0NxNzdacWxCdEFxOW44LWpXTm9sMGtKYnpnVlNvTE83c3k3S24za01IRzVZYW5aVzlWa3daTlpkYWsxenlUMXh0RkFPRzJfaGFJd2w1SW1uem5ncnU0TG1lbl9Gd2VhdFRQdk45Y0hta3VTZXhxWUZXVzNjdkVNRnl3MUdNOXlTczNuaW9Da19rbVZnVk90SXl0MlhObldOdEpfVllQNGhaNFhrSGRGT09uMDRFWjhBbWxFVXd6S3VuSDgwVkc5OTcwSVJ1Tlk?oc=5",
-      "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan’dan finans sistemi eleştirisi: Ameliyat gerekirken pansuman yetmez - Milliyet",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb1V3d2REX1N2M21UbmNfbHc1LWg3andwY3ZmZllaNTk4cVIzZXgtM0dXMFA1NnJVYXpUWUVJMXQyZE5qYTFjaU1VaHdqcXAtbEwwc3U0NWw2VjJ4dW5OU2hIczRzZDRjX1pUUHktYWh4TlRoMGpMYk9hd3hqN1lBUEFHRndpeHRZcTl0cXRrQW84MURwcFdTLUN3RlF6ZGtDSUU3UExXSHphUWFUZFNySUdUZV95Q0RMVU51cWRXM3RtWEJILWF6OA?oc=5",
-      "pubDate": "Sat, 06 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan, annesinin adını taşıyan hastanenin açılışına katıldı - Medyascope",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdi1vckh1bHRsNnFveERHQXNCQlMtSkEtdGNic2xqeFVab295NkpGZVZGSTVDejFVSXNEcWNMZUFpOEtGMWQ0Yk1sQTRxZzU0Ti1WdV9SUFR2N2lpVDdNX0ZtYjYtdC02ME5jMkdYek82bVRNWW4tbkxsVUdLbVBkbFdqVjMwQ1dHTDFXdkEybFVPaUtyUmFYN1Nn?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Sağlık Bakanı Memişoğlu, Cumhurbaşkanı Erdoğan'a \"El-Kanun fi't-Tıbb\" kitabını hediye etti - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONzROd3dwMWZmNmRzbF9UQkJiN0tVMEY3WlRqVUozLWxwUlB6a3dQNGpkZlRVdWVYUldXR0VBM3RNR0stYm9zNG1qUjU4azdwOGRRWFlhN1BybTFqbDFDeC1CQTFna1VGcmNGa05nNFpqY1RNZVp3MXhVbHZXSkRtMFZQckZmV3JjeGdnYXFDck1wcHNlWEdhVjFSM3U2aWpuVmhoV1BpS0R0NERvRjQ2TWxxT0FtaHQwRi1HaURGQ1p4djdQUjA2SVJTUi1yc1RN?oc=5",
-      "pubDate": "Sun, 15 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Erdoğan: Türkiye krizlere çözüm arıyor haberi - Borsanın Gündemi",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUV9hcDVZY003TlRDLXNveDRJRVFDWnROSmZEZHJkX1Z0amt3UlFybFlmYXR5aU9QcGhVODF4NUNyUGZXVWR5T2V4STh0S2ZvSVhEWi01czk1TWVPeEhyUEtLQV9iMTlRNDBxaWExZkgxMWhwbmZ0R2pkWnlub044WEZuTTA3eFNIS3BR?oc=5",
-      "pubDate": "Sat, 14 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Erdoğan'dan Fatih Altaylı'ya geçmiş olsun telefonu - Evrensel.net",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbEJyd05fVzJMT0JPcVBGUHpVQUlCQXQtQm1oWWlBRHpaS2FCYU5iX3o5aXkwUzVaWlpYWmhlVko2Y2pJSndCZUJWRmN4ejU5dHlOMkJxQXlXN2RRN3dreEJZTHZXdXpKdkZyWW56akItbGRCNEpoUEwzblNFcDUtdnFCckkwd3EwV19XZjZIdVA?oc=5",
-      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Tenzile Erdoğan İlçe Devlet Hastanesi kapılarını açtı! Rize’nin yeni sağlık üssünde yok yok - Türkiye Gazetesi",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZVJGc3FJTnNHT2xmMW1yeFh5T3hlLVljcjh4TFBCRWZTRHR2NlIzeEpIQmYyUnZRcDZFRVFkb3hJMHVOMndLMDMyZE1vYVA1Y2Ffd3JxZ2pGVi0zLWo5b181ZHR6TEVnSUV6WWZoNWQ2ZTFJZmdOWlhqVXhydXp5NEFoU0pCcjJHQnlFODNwbURaMUZ0OWNMbUxXTzB2ZzhLSzNkanh0bzRub21xRkR5UmJUYjVxMkR0T0NVM2NvVFpVRkFVbU56NzJ2dTE1WUs1?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan: Hep gençlerle omuz omuza yürüdük - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQTJLN196QnZJS2NmRnZCeVZXblJoMGltSDBVUGxuRVItYWpHRXNaOG1vdnp3YjZVNmlZcENidmFsaDlXZjY3OWdkSDRkY2VJUHV6aVBiVDNSZmhaZlE1MWJpSkEtVzJrY2xsNU5mZ1Y0czFGM05LUFFiRW9hZ2VHdnNORU5VMmZkZDJQSmozVk85R0dyWEFjWDFPeS1CYzh0TGpyRnVPQQ?oc=5",
-      "pubDate": "Sun, 14 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Erdoğan ve TİKA Başkanı Eren, Dakka'da sağlık merkezi açılışına katıldı - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMGduY2RaWjNkb1FEeHZISml6c2lfYWVKaGUyak5JYldrak9lVkFSWjMyazBlcUwwT3R5YlowNThRMWladURtREFaSlhnQzNrM1Zhc2loWVJMYk9WN1doRVJ2c2tkXzdaZFVPTGx2NUlWOXBZRFMyMXUyN3dfVTBKYUVxMEd6b3pQeHFDY1NUd2pBc1dsRTktbDN6ek01V1FmQ1IwM2RKak9YRlp3WEhXd213TkIzVllUY3J4YTFuLU5kSDFXeExkZFVsYXlSUXJrdURIQlhac3RRWkhNaV9iREFzUEU?oc=5",
-      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Trump picks White House aide Dr. Heidi Overton to lead FDA - PBS",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcG9EcGJrcnVLNnM3dnNnZ0JQR3NPZUxCY1FFSGdvRWVEMzhRaW5DMHlwQU4wS0k3dnRmZDBjNmx2V1pIdmloZUdkcWdQa3N0czV2QU9UZ3Z2Nkd4VDE5VlBiQngycy1tM1NESFJRR3pJV1cxdE51dWRFYXFSQ3o1TmRTOExYOTZBNlA3WU04MWpVZ1R5czc5dk42dw?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 18:38:11 GMT"
-    },
-    {
-      "title": "Trump’s Doctors Sneak Weight Reveal Into Shady Medical Report - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHlXLTJ0ZnB2MHlfT3FsWjByanpOa1doYTNTclpudENwRXFtNzlfRThZYm5yV1ZkYXhDaTNwcUdKT0RKLTEtVGxxaEt1aXh1aU9NQ2lBMWowSUtvb3F0cFhsLU05RE5SYXVTcHA3NjBORHlBVENudmNKb2tMYVJ0WGlWbnhQZkdXQUo2S0lJenhrTmhHSzFhMw?oc=5",
-      "pubDate": "Sat, 30 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "The Cost of the Trump Administration’s Attacks on Research Funding - Brennan Center for Justice",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaEJEb0VVUDVlMUs5X3hEZzJORUpVbjdnS2YzYjRvMEFrWF9oaXQyRm5oWGZVNkMzZkotcm1FWmtVdDBmbXZ4b2xNSnQwQklKbUhQMmJfWTI5dUJXODlxWUtPa0IxRkFmdmdRdVNvMlVCQXdHMURReDNqa3hETDJrX2xpSVBEa1NBck1ESDJPUkNaX3VXYzIwT0FyZ0VQb2lHV1k0WGpwbW53akE?oc=5",
-      "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Jill Biden Reveals What Husband Joe Biden’s Latest Cancer Scan Showed - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVltSzRuVnRQREFIVUk2NGs1cURaeklJSFFMX2E0anJ5eUlpVTlfT0FHNWFTcGltY2ltejBCTTlGTFNLUnlzVzhVaDZ0ZkswOV94VDhwdUIyZ055ZEUwY1FadVhjT2lVNFYwLWRtb2FZaTJlRXA5emVoTHNFNm1KMWt6bDN1NDdORVpWdg?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 14:21:36 GMT"
-    },
-    {
-      "title": "Ex-Dem insider reveals she will expose Democrats who covered up Biden's cognitive decline in new book - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ2p6TkVLUE5ibDVLSl95Q3Q2UHB1VGdxakhUNVJNanpPbWh1eDBnNU1UeWU5RHE2ZjFmWXFfRjRfdjN0eFBpWlhiQ0lRRndXTFNwVUpadUdvSzZXLTVxa0dRSmtvV3dPaGtwNEtRX3gwcV8tOERuZXpra2NMNl9YQV9TdnlXN3VZbDlwRmJzcldZM1RGdFpXazB4Q1VzaURDRHlybUVET05CdmNVcTJOUEJ5c9IBuAFBVV95cUxQcFEwR3l5Um9nNkhXY1RNd3NyY0ZSbGMxUjlhWjdQcElhS29TTjRsbk5mZVNsMDlGTlhrdTZqcTU5c1VFRXZEaEZaZUdpWnlGZUxoX2ZqRS1mODZaekNiVm9MZ194akhIQ050c09qRC1MS3lCbmVqVnYzb1pmOU9VdldEbnRBZFBfd09qeGZGZ0RRVE1hUXl4T2ZpLUlhTEtuQnp4Y1VWTHBjZTRPQjhyZlFIMlNWTVh1?oc=5",
-      "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Putin’s Hospital Visits Revealed by Ex-Federal Guard Officer - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX1N2WEs1X3h6NnpMOEhoZmhJSUNuam14Nk1RRVZ0TjRsZk1pM2pGZzdyblJidlZBVS1Hd09wYVVydzNuMEdJYnQ5eDBZM3l1MmRRTXQyb0IyLUgzN0UzMGlBUlRuT0dnMHVfSWdSQmZLS0Jta0xlQ083dDExX19zYkYyYlRseXdTcWRHTVkwNGhGUQ?oc=5",
-      "pubDate": "Wed, 05 Apr 2023 07:00:00 GMT"
-    },
-    {
-      "title": "Xi Jinping set to call for vaccine pledges at G20 health summit - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdXF3ekMzOTRWLTRxQnM5RmFEbU96bWlLYl9BMzBQS3N0Q3drcDR0dHNSVHdsUWI5NW9qQ3dDY2hVZjM3SGF2U014OEVuTXJYRGJvRWJlaTJ4cEhXUXY1NllqeVhoMU9SazdjSFA3VFR6a0Q5a1l5WWV6eGpKbFZaNTV5MkdXWkxkZ3VjcmF6NDZXWE8tYWRBSEQtQVJabExlZ3gxdUJGbXN6OWp4eE5VZWl5dWpIMDRLMXfSAboBQVVfeXFMUFhqUkVDSEVkeFpYN3U4cVpFVXVGNUdSUDF1bWNBaG5ydE8tZG5qZVFiazgxZFRvU3ZFbUlDWGF2UXU0eHNWWnJjWjluWU5lMW5icDQ4emtiU2NObjZqQ1BBMU4zblNoM0JzekZTTjJGYm5sV2xmNDlGbU9wdHIxaGFYelRla2s0dnlHelkwSGNPVHUzY0g2WnIwUXdtUjdqWUUwSHZ3UV9WWFE3UFRHNnNFV1NwTk9jb01R?oc=5",
-      "pubDate": "Thu, 20 May 2021 07:00:00 GMT"
-    },
-    {
-      "title": "Xi Jinping's rule will be extended with more authoritarianism at home and tension abroad to come - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTTRNN29BdmlLSTVZeG04TzBSWjFMeUlBOEdYU1BMYmpURW9UdFJDa0trVDF2cEVad2l5QlY2OW04Z2VReTlDeWdjdUR4UGw1Wmk4UVJ6RE5fWEZLSURMZTBRR3ZnWHhjSzlBN0R0dUlmZkdJb01MRndTWGtFZEFsVkt6a3Y0VWYwOEV0Z1h4Yw?oc=5",
-      "pubDate": "Tue, 18 Oct 2022 07:00:00 GMT"
-    },
-    {
-      "title": "Gavin Newsom meets with Xi Jinping on China climate trip - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSE10dkVhZXZKakRzZVVhU0U5WGllbVFiaU5tSzllVGFTSWh4OTdBSEE5YjlqdzlLdkszWGduT1hnMlhhR0lQV295ZkNPdEVtb1NuZk94ekNxZk9fVTlpUHc2dWxTb3dQVWV1NWoyLWdXaEkzaFo1emNXNVY0c1JPWTJVRHl1ZEhTMk1oa21WUnJjNUhFRUZHdjhreV9ILUVjd0lRdmt1UU9GWV9QbkE?oc=5",
-      "pubDate": "Wed, 25 Oct 2023 07:00:00 GMT"
-    },
-    {
-      "title": "Kim Jong Un says his ‘heart aches’ over North Korean soldiers killed fighting for Russia, in rare admission of losses - CNN",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdHNoWXZLX01VeG1MTEJDZFJwSmdIRXE1MzRyTmtZbF9pQjFoMGdQUlJwbUIzOVVEVWx5ZDVjUW1nLTVkdEVFYm5sbC1uRk9aeUVQbHVsS2w0MUROc0lHN3RpdzMxLWVtM0NkR21xNG5CRTYxbmpLUUd1NHdJdC1DaWxpTURWdHUyUEh6cVk1YjdiZXpSTGdj?oc=5",
-      "pubDate": "Thu, 21 Aug 2025 07:00:00 GMT"
-    },
-    {
-      "title": "Harry and Meghan return to UK as Charles’s illness spurs rapprochement - CHOSUNBIZ - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONWFOWGdJa1JlOW9pWmZQeWhZeEFxMlJiMzUyTjlYQWc5ZEpHYjZ0eW1vRjE0QTdRS3ZFcFJPV290QXdRVmdlUHR5QUVQQUpXaV8zWHZ6WWFuclpITlpXTGdSRGNhcmhSdHhZWFRjTlBRU2xEdDRkMUpjZ1hYOW5uRnRPT1RBUkFx0gGcAUFVX3lxTE9CQklkdWpUWlQ4UVNRZzFZX2piTTZSQzNocWM4WUVVZGMwcGJocDdXdjVPYWtoeVRwaGgwN1QwNDk4TUZEY3h2OG5jNTZWTGl2NG5KOGRPQm9NMkZHV2FtX3FSbWpUdklxMmFNWmNPR0ZKa09HSmY5a1Z6VThwNU1ZT0xiUjZKX2FDN1E2M0UzOHVnNmF3WndUbGYzQg?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 06:20:00 GMT"
-    },
-    {
-      "title": "Ayatollah son Mojtaba Khamenei injured in Tehran bombing strike, sources say - euractiv.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNDJBLW1VZ3dNNjZYYmJSR1d4RFVPMjFFMXoyMlV2amVsWjRITGtWMGVPQ0E5aXJrdFo4c1NVeTRKU2w0X3g0WmhkVWotaHlnV3BmYWxUbGRQY1BUTmhrZGppeHNEOVlEbnlCZVFNQU9RdWw4NFJURXc3X0dkdzdMaGRWU19lUUpVVkZTRnNYTjJXcjVHX2d0cm1FdFZ2N08zb2p3cQ?oc=5",
-      "pubDate": "Sun, 08 Mar 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Iran’s supreme leader reportedly ‘unconscious,’ ‘receiving treatment in Qom’ - Al Arabiya English",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUDNaMER1SUtXaXphUnZpYVpvU2RSaGU5ZE1oeWNfQ09tbE0yc0lKMDFqR2xjWmRVQ2ZjWkRPRlNNZm9NdDhaM2t4WGhDQkppQ1QybjR0S0IxUGNtbWNmYnBQRTc2ZndUMHByNkdiM0Rza1RTYUR5WkZqcVRKMUJhRmw1X3VodF9BOC1oNnNUa0xqZkVKd25sczFrZ19QUTZlMDc5MkZCWW5QX3RxemgtemNQVy00aFZQZXRHZy1pR0pQNU5NLTM2b2Zn0gHPAUFVX3lxTE5JVDhvSElBWmJUMXdUeDJuUExua3FhbHJvZmNtb0VMUUZZbHlsR2hxX01UZUNidlpGS2RHeHdGeWJiYnI0SmtqWDRHc2dUbXR6cUozRXRVbVJJQzVza0NBeEZVYU9QUUdIMjBFVUlUT1RuMkdaWmNGOWRlLXNwN2l2QzZIZnhCT2JPYW5HMHMydFZOdzh1MUF4RnJuWG95dmgxYXlPWkdUUmV6WFNVanRMelEwb2FtY3JueDRRUUhYZXFlcTVyNHBSYm43aWl1VQ?oc=5",
-      "pubDate": "Tue, 07 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Forced Rafah population transfer would be a 'war crime', Macron warns Israel - France 24",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa3VkRHRxblgzUm5zS2dwY3FRNU56M1VqRmUzLWZxOWp6dk5remtYNjVHWVNITERkTHpCdzJmei0wNGNGSG5SS0s0NXhwRjFySWtEZ0c2UjhaOV9FVmFLLXgzWk41TWNnQTgxQWxQb1R5ejQ5dFhXSFF0SmZKZjlNejE4NG5Damk5V1RDbHpjNVlDbUFVMWRibHVhRUxWS1R6RHJHTUI4cjBXRkJOX0xwMjBkVEs2Q3FIWTdjRmUwRQ?oc=5",
-      "pubDate": "Sun, 24 Mar 2024 07:00:00 GMT"
-    },
-    {
-      "title": "French President Emmanuel Macron, his wife hired private eye to dig into Candace Owens: report - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZzdidGVkWjdSYXQyQkZUSTE1SXd5VThBcFVFM1EwaFhOSVQ3a0R6emZnSThON3B1SDlfXzVYRV9IWHRoU3hxU2RXQjh1empGcGhMRlh6dG5YWHJfZ1dWZUxDS0hXaDVGQzExZWtKM0dPY0NEaEtkWDBnUV9ScW5aV2ZQMG5yUEx1RnRFTU00cFd1RjVwX3ZQZ3BqekJsTmVkUkJRSjB1cG9GVHVW?oc=5",
-      "pubDate": "Tue, 12 Aug 2025 07:00:00 GMT"
-    },
-    {
-      "title": "Emmanuel Macron Appoints Sébastien Lecornu as New French Prime Minister - Межа. Новини України.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU2xHYlNlRUo3UW9Ra2ZxZDBJZUt4NlgwWWtMbHdXQV90UXkxajV3Q3c5VzE3aUxjRDY3X3R1LVZKbExIV0JzdzBaY2Y3MUdUQlY1SmMtd2JNc1RxRFVoZUk0bDFtajl0TV9BbDVZeEdtTGw0MkItaEtKUkE2ZElWM0N6cUpyRFhIOVFITUMzWmdLZF92ZU5zRHprQlpUeWR6dkE?oc=5",
-      "pubDate": "Tue, 09 Sep 2025 07:00:00 GMT"
-    },
-    {
-      "title": "Former President George HW Bush Remains Hospitalized - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEF0SHIwRWJ6cDdhZkhOMWc5TmpRT0JOa29qUGs0ZV8tRF94bVFVYWNkMG9oX2R3aUFmbXZmei1BS3pIR3lNVlFrSHpfWFgwdmFyN1FQcEVGS1ZMQVNXOTFmcjZ5XzQ3SnlMdTduemJodVM0b3A5bE54UFJra0t0ODkzS2TSAYoBQVVfeXFMTnU3MUpHT3pwaXgxYXNfNjJDYWVNSlJ5WmJSN2RUMzFWcVU2aGdFSDl6cWNnUXlaUDhpeG1LZXJldzBxbEFWN3BwRlhqY2IyUHpiNXBIZG0tWFd1M0loTWo2b2RZV1BhZzBuX1VhY1o0V1hsa29EZlJKa3BRN2FHUWFGVF9IRzZZRDBB?oc=5",
-      "pubDate": "Tue, 10 Feb 2026 23:06:09 GMT"
-    },
-    {
-      "title": "Filistinlilerden, Başbakan Erdoğan için klip! - Takvim",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUHdOYmtBTi1BNk1uaGFMZUhiMFFMYXFRME9FUkpMa05mMWJmaXk2Z1ZwSmt5M0ZVejc5REtvRVVEN2pJOFhzbG1IenZNWUJvU05STDl1ZnlkWGdaSm9rWWx0enNYQ1JvWTJ5U0dyOTYycDdqRE04ZjkydWh2ZDBxVTdnaEpFWTlV?oc=5",
-      "pubDate": "Wed, 16 Jul 2014 07:00:00 GMT"
-    },
-    {
-      "title": "Son dakika... Cumhurbaşkanı Erdoğan duyurdu: 13 yeni şehir hastanesi geliyor - Milliyet",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ0lYTUltdjk0eVFMblhnanlYcmQ0NkU3ZzFrN01fcGZvOFljUi1fSl9VZ0hXcERzVWRBX3c3VEZiZ0xsMlp1azg5MjA2a3FFS2FQdkYxWS0zZkhsVkZPc1FpYmdCTklGV1Y0U3hqZEN2RGJLei1aeHBNZkdRNmV3WkpMa3FTZVl0WlNrMzMxRVhWS1RtLW1JejZkNzZLNzgwdERWcllGZUxmNkxWNFR2TnFTMXQ1dw?oc=5",
-      "pubDate": "Wed, 26 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "title": "Bilal Erdoğan'ın gözünden Türkiye: 'Eğitim ve sağlıkta altın standarttayız, yalnız biraz daha özel yatırım lazım' - soL Haber",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRWFuZGhqeUJxdTRCNThwcndhLThwTmxncFo2RVpYQVR3QWhqMHk0QVloMG5ZdXZBa1YzY01MMV9UdkdSZk5jOUFaRGJUS1Z3WS1pOUFwQVhMSGZNSlZZWEw5d2dHbjRRYi1LZU5Ja2xLV3U0LUxWWEYwMHhicDJwLTJZQVZJbHF3ejZWYXFVZThydlROeE1ma1lDeTNnSHh4eFNUUU9JRWVRSVdSMVdERWk1dW9NckJFbS1EMg?oc=5",
-      "pubDate": "Sun, 07 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan, Dakka'da sağlık merkezi açılışına katıldı - Sabah",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRG1FcW03UU1wWFNEQzVIMmJCbFY5QlYtNzJGZzVGWGZCTGNsMVl1aUVybW9vZEpIa2ZTZFdMb2VNZXJrSnZMd3ozSUFlRktGUzVPbC1wZ2dXMV8tanpGRXZ4VDVLSXFCb1h4TmNCWDFubFd4b3RmOTc0Ukl5UXVYZ0hwTGxldklMRWhscHAxWkx6MGQ4c1pkdWdINVJFTlRHdzRqYkFVanBDZ0k5WDJmdmI4V2dVanRaRGVuT2tMd2gxeW5SekNieVBLV1ZEdmR1by1nTk9R?oc=5",
-      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Deniz Erdoğan kimdir? Sağlık durumu nasıl? - Ülke TV",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQak1SUFJudHdFRTlweG4yZ2MzRk8xMl9tendCSGFEZWlOMmxTS28tMzlINW9rbDJRTmQyaFl4c2FfVzU2QlpzeFNraUhPTkdiQVpsNHF1a0JEWHQtdlZ3ZzlLdHdtOFVRQ0R0U0Q5dWNCQmgxMHJjcWUwVXBOZzhpbmR4QTBQaDVoSGFrejZ3NWhfcjRuR1VxUHM5QzJsZXEwSjJv?oc=5",
-      "pubDate": "Thu, 20 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan duyurdu: 13 yeni şehir hastanesi geliyor - Medimagazin",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdW9jSHB5czRma0pRak5XdWdfWFU3TDhndzAteHJmYmVtSWJ6NmxaZER4bTNSZjYtWHZYZDdrVEJteXh1WGNpc19kVlVmM3FPaWlLcTZhTDdWR3BVSFVVNVM2TWhxMTJtY0szSGRvRWU4cTNid3FwOE94ckU3Rm1nNGlhd2ROSjU1S2xqZV9iR3RRMWcyb05NWUpub0ZON0tpWm0tag?oc=5",
-      "pubDate": "Thu, 27 Nov 2025 08:00:00 GMT"
     }
   ],
-  "last_update": "2026-08-21 21:16:03.347031"
+  "last_update": "2026-08-21 21:46:16.770727"
 }
